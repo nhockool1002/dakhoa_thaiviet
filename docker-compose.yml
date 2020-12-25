@@ -6,6 +6,7 @@ services:
     container_name: wordpress-docker-db-develop
     volumes:
       - ./db_data:/var/lib/mysql
+      - ./sql:/docker-entrypoint-initdb.d
     restart: always
     ports:
       - "44221:3306"
