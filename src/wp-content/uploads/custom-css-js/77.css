@@ -1,0 +1,27 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+#topCol { margin-top: -50px }
+#topCol .topColItem {
+  color: #6b6e6c;
+}
+#topCol .topColItem p {
+  margin-bottom: 0em;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+}
+#topCol .topColItem p.topColItemTitle {
+  font-weight: bolder;
+}
+#topCol .topColItem p.topColItemSmallText {
+  font-size: 11px;
+}
+.headingTitle {
+  text-decoration: underline;
+  text-decoration-color: #3390B9;
+  font-size: 35px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.doctorTitle {
+  font-family: 'Roboto Condensed', sans-serif;
+}</style>
+<!-- end Simple Custom CSS and JS -->
