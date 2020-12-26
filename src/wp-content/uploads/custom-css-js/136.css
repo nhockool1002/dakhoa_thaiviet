@@ -1,0 +1,49 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.form-register {
+  width: 300px;
+}
+.form-register input, .form-register textarea {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.form-register textarea.form-sick-status {
+  height: 100px;
+}
+
+.form-register .form-top-section {
+  text-align: center;
+  background-color: #3390B9;
+  color: white;
+  font-size: 16px;
+  font-weight: bolder;
+  box-sizing: border-box;
+  padding-top: 2%;
+}
+
+.form-register p.form-p-tag {
+  margin-bottom: 0em;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+}
+
+p.form-p-tag.form-text-description {
+  margin-top: -20px;
+}
+
+.form-register .form-content-section {
+    background-color: #262679;
+    margin-top: -25px;
+    box-sizing: border-box;
+    padding: 10px;
+  	height: 380px;
+}
+
+.form-content-section .form-secure-text {
+  	vertical-align: top;
+    padding-top: 5%;
+    padding-left: 5%;
+    color: white;
+}</style>
+<!-- end Simple Custom CSS and JS -->
