@@ -1,6 +1,6 @@
 <!-- start Simple Custom CSS and JS -->
 <style type="text/css">
-#topCol { margin-top: -50px }
+#topCol { padding-top: 100px; }
 #topCol .topColItem {
   color: #6b6e6c;
 }
@@ -59,7 +59,7 @@
   margin-block-end: 0em;
 }
 .serviceTitle h2 {
-  font-family: 'Bree Serif' !important;
+  	font-family: 'Bree Serif' !important;
     color: #3390b9 !important;
     font-size: 337.5%;
     text-shadow: none;
@@ -123,5 +123,84 @@
   margin-bottom: 0.5em;
   margin-block-start: 0em;
   margin-block-end: 0em;
+}
+.form-register-2 {
+  width: 300px;
+}
+.form-register-2 .textarea-441 {
+  height: 100px;
+}
+.bookAppointmentSection {
+  margin-top: -200px;
+}
+.feedBackCustomer {
+  font-size: 35px;
+  text-decoration: underline;
+  text-decoration-color: #C0C0C0;
+  font-family: 'Bree Serif' !important;
+}
+.feedBackWrapper {
+  padding-top: 30px;
+}
+.phone-headline-ft {
+  color: white;
+  font-size: 30px;
+  font-weight: bolder;
+}
+.phone-title-ft {
+  color: white;
+}
+.head-appoint-ft {
+  font-size: 20px;
+  font-weight: bolder;
+  color: white;
+}
+.apoint-headline-ft {
+  color: #d0d0d0;
+  font-size: 30px;
+  font-weight: bolder;
+}
+.head-date-ft {
+  font-size: 20px;
+  font-weight: bolder;
+  color: white;
+}
+.ct-date-ft {
+  color: #d0d0d0;
+  font-size: 12px;
+}
+.head-map-ft {
+  font-size: 20px;
+  font-weight: bolder;
+  color: white;
+}
+.head-map-ct {
+ 
+}
+.ftNav {
+  padding-top: 20px;
+}
+.footer-wrapper ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.footer-wrapper ul li {
+  margin: 0;
+  border-bottom: 1px solid #d0d0d0;
+  width: 180px;
+  margin-bottom: 20px;
+}
+.footer-wrapper ul li a {
+  color: white;
+}
+.footer-wrapper .footerHeadline {
+  font-weight: bolder;
+  font-size: 18px;
+  color: white;
+}
+.phone-footer-box {
+  font-size: 20px;
+  font-weight: bolder;
 }</style>
 <!-- end Simple Custom CSS and JS -->
