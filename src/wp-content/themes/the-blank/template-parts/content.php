@@ -8,8 +8,9 @@
  */
 
 ?>
-
-<article id="post-<?php the_ID(); ?>"
+<table style="border-spacing: 15px;">
+	<tr>
+<div id="post-<?php the_ID(); ?>"
 <?php
 if ( ! is_single() ) {
 	post_class( 'teaser' );
@@ -21,11 +22,11 @@ if ( ! is_single() ) {
 	<?php if ( is_home() || is_front_page() || is_archive() || is_search() ) : ?>
 		<?php
 		if ( has_post_thumbnail() ) {
-			echo '<figure><a href="' . esc_url( get_permalink() ) . '">';
+			echo '<td style="vertical-align: top;"><div><a href="' . esc_url( get_permalink() ) . '" class="image-article-in-category">';
 			the_post_thumbnail( 'the-blank-teaser' );
-			echo '</a></figure>';
+			echo '</a></div></td>';
 		} else {
-			echo '<figure><a href="' . esc_url( get_permalink() ) . '"><img src="' . esc_url( get_stylesheet_directory_uri() ) . '/assets/images/thumbnail-missing.png" /></a></figure>';
+			echo '<td><div><a href="' . esc_url( get_permalink() ) . '"><img src="' . esc_url( get_stylesheet_directory_uri() ) . '/assets/images/thumbnail-missing.png" /></a></div></td>';
 		}
 		?>
 	<?php endif; ?>
@@ -43,26 +44,26 @@ if ( ! is_single() ) {
 			?>
 		</div>
 	<?php endif; ?>
-	<header class="entry-header">
+	<td><header class="entry-header">
 		<?php
 		if ( is_singular() ) :
 			the_title( '<h1 class="entry-title">', '</h1>' );
 		else :
-			the_title( '<h2 class="entry-title"><a href="' . esc_url( get_permalink() ) . '" rel="bookmark">', '</a></h2>' );
+			the_title( '<h2 class="entry-title added-for-category"><a href="' . esc_url( get_permalink() ) . '" rel="bookmark">', '</a></h2>' );
 		endif;
 
 		if ( 'post' === get_post_type() ) :
 			?>
 			<div class="entry-meta">
 				<?php
-				blank_posted_on();
-				blank_posted_by();
+				// blank_posted_on();
+				// blank_posted_by();
 				?>
 			</div>
 		<?php endif; ?>
 	</header>
 
-	<div class="entry-content">
+	<div class="entry-content added-for-category">
 		<?php
 		if ( is_single() ) {
 			the_content(
@@ -89,11 +90,13 @@ if ( ! is_single() ) {
 				)
 			);
 			?>
-	</div>
+	</div></td>
 
 	<?php if ( is_single() ) : ?>
 		<footer class="entry-footer">
 			<?php blank_entry_footer(); ?>
 		</footer>
 	<?php endif; ?>
-</article>
+</div>
+	</tr>
+</table>

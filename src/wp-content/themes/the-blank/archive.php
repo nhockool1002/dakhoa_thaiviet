@@ -22,28 +22,39 @@ get_header();
 				?>
 			</header><!-- .page-header -->
 
-			<?php
-			/* Start the Loop */
-			while ( have_posts() ) :
+			<table>
+				<tr>
+					<td width="25%" class="category-td">
+					<?php
+						echo do_shortcode('[contact-form-7 id="132" title="Form Đăng Kí"]');
+					?>
+					</td>
+					<td>
+						<?php
+								/* Start the Loop */
+								while ( have_posts() ) :
 
-				the_post();
+									the_post();
 
-				get_template_part( 'template-parts/content', get_post_type() );
+									get_template_part( 'template-parts/content', get_post_type() );
 
-			endwhile;
+								endwhile;
 
-			the_posts_pagination(
-				array(
-					'mid_size' => 2,
-				)
-			);
+								the_posts_pagination(
+									array(
+										'mid_size' => 2,
+									)
+								);
 
-		else :
+							else :
 
-			get_template_part( 'template-parts/content', 'none' );
+								get_template_part( 'template-parts/content', 'none' );
 
-		endif;
-		?>
+							endif;
+						?>
+					</td>
+				</tr>
+			</table>
 
 		</main><!-- #main -->
 	</div><!-- #primary -->
