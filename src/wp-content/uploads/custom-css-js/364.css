@@ -1,0 +1,34 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.kmm31 {
+  width: 100%;
+}
+.kmm31 a {
+  display: block;
+}
+.kmm31 a img {
+  width: 100%;
+}
+table.widget-slider-bacsi {
+  border-spacing: 0px;
+}
+td.title-slider-bacsi {
+    background-color: #3dba98;
+    border-radius: 5px 5px 0 0;
+    font-size: 25px;
+    padding-left: 15px;
+    color: white;
+    font-weight: bolder;
+    box-sizing: border-box;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+td.title-slider-bacsi p {
+  margin-bottom: 0em;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+}
+td.slider-content-bacsi {
+    border: 1px solid #3dba98;
+}</style>
+<!-- end Simple Custom CSS and JS -->

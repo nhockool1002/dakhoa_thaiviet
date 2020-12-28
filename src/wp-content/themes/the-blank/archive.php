@@ -28,8 +28,29 @@ get_header();
 					<?php
 						echo do_shortcode('[contact-form-7 id="132" title="Form Đăng Kí"]');
 					?>
+					<div class="kmm31">
+						<a href="#">
+							<img src="../wp-content/uploads/2020/12/km331.jpg" />
+						</a>
+					</div>
+					<div class="slider-bacsi">
+						<table class="widget-slider-bacsi">
+							<tr>
+								<td class="title-slider-bacsi">
+										<p>>> ĐỘI NGŨ BÁC SĨ</p>
+								</td>
+							</tr>
+							<tr>
+								<td class="slider-content-bacsi">
+									<?php
+										echo do_shortcode('[smartslider3 slider="7"]');
+									?>
+								</td>
+							</tr>
+						</table>
+					</div>
 					</td>
-					<td>
+					<td style="vertical-align: top;">
 						<?php
 								/* Start the Loop */
 								while ( have_posts() ) :
