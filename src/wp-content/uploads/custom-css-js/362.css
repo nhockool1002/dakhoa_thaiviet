@@ -56,5 +56,27 @@ h4.widget-title {
 }
 h4.widget-title::after {
     display: none;
+}
+.tutorials-box {
+  background-color: #376CAE;
+  border-spacing: 0px;
+}
+.tutorials-box table {
+  margin-bottom: 0;
+}
+.tutorials-box td {
+  width: 25%;
+  text-align: center;
+  vertical-align: top;
+  padding-top: 15px;
+}
+.tut-icon {
+  text-align: center;
+  height: 80px;
+}
+.tut-icon i {
+	color: white;
+  	font-size: 60px;
+  	margin-bottom: 15px;
 }</style>
 <!-- end Simple Custom CSS and JS -->
