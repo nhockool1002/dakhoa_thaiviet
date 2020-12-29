@@ -1,0 +1,63 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.kmm31 {
+  width: 100%;
+}
+.kmm31 a {
+  display: block;
+}
+.kmm31 a img {
+  width: 100%;
+}
+table.widget-slider-bacsi {
+  border-spacing: 0px;
+}
+td.title-slider-bacsi {
+    background-color: #3dba98;
+    border-radius: 5px 5px 0 0;
+    font-size: 25px;
+    padding-left: 15px;
+    color: white;
+    font-weight: bolder;
+    box-sizing: border-box;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+td.title-slider-bacsi p {
+  margin-bottom: 0em;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+}
+td.slider-content-bacsi {
+    border: 1px solid #3dba98;
+}
+.direction-top {
+  width: 100%;
+}
+.direction-top td p {
+  margin-bottom: 0em;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+}
+.direction-top td p.topColItemTitle {
+  font-weight: bolder;
+  color: #818a91;
+}
+.direction-top td div.detail-drct {
+  color: #6b6e6c;
+}
+.direction-top td p.topColItemSmallText {
+    font-size: 11px;
+}
+.direction-top td.icon-drct {
+  width: 5%;
+  text-align: center;
+}
+.direction-top td.content-drct {
+  width: 20%;
+}
+.direction-top td.icon-drct i {
+  font-size: 60px;
+  color: #818a91;
+}</style>
+<!-- end Simple Custom CSS and JS -->
