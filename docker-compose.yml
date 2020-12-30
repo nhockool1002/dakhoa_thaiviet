@@ -47,6 +47,7 @@ services:
     environment:
       PMA_HOST: db
       MYSQL_ROOT_PASSWORD: root
+      UPLOAD_LIMIT: 1G
     networks:
       - wordpress-docker-network
 

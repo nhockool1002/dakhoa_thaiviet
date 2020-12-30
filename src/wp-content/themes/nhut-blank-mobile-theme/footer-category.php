@@ -3,6 +3,22 @@
 html {
   margin-top: 0 !important;
 }
+.tutorials-box {
+  background-color: #376CAE;
+}
+.tutorials-box table {
+  border-spacing: 0;
+  margin-bottom: 0;
+}
+.tutorials-box td {
+  vertical-align: top;
+  text-align: center;
+}
+.tutorials-box td div.tut-icon {
+  font-size: 40px;
+  color: white;
+  text-align: center;
+}
 .footer-wrapper {
    background-color: #376CAE;
 }
