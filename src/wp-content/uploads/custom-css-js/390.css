@@ -129,5 +129,139 @@
   position: absolute;
   bottom: 0;
   left: 105px;
+}
+.uudiemphongkham {
+  width: 100%;
+}
+.uudiemphongkham table {
+  width: 90%;
+  margin: 0 auto;
+  border: 0;
+  margin-bottom: 20px;
+}
+.uudiemphongkham tr {
+  border: 1px solid #d0d0d0;
+}
+.uudiemphongkham td {
+  border: 0;
+  padding: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+.uudiemphongkham td.image-uudiem {
+  width: 20%;
+  vertical-align: middle;
+}
+.uudiemphongkham td.image-uudiem img {
+  width: 80px;
+}
+.uudiemphongkham td.content-uudiem .title-uudiem {
+  color: #0960c2;
+  font-size: 20px;
+  font-weight: bolder;
+  text-transform: uppercase;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.cacdichvu {
+  width: 100%;
+  text-align: center;
+}
+.cacdichvu .title_cacdichvu {
+  font-size: 34px;
+  text-transform: uppercase;
+  font-weight: bolder;
+  color: #446ba9;
+  position: relative;
+  margin-bottom: 20px;
+}
+.cacdichvu .title_cacdichvu:after {
+  content: "";
+  width: 150px;
+  height: 2px;
+  background-color: #446ba9;
+  position: absolute;
+  bottom: 0;
+  left: 115px;
+}
+.tintucnoibat {
+  width: 100%;
+  text-align: center;
+}
+.tintucnoibat .title_tintucnoibat {
+  font-size: 34px;
+  text-transform: uppercase;
+  font-weight: bolder;
+  color: #446ba9;
+  position: relative;
+  margin-bottom: 20px;
+}
+.tintucnoibat .title_tintucnoibat:after {
+  content: "";
+  width: 150px;
+  height: 2px;
+  background-color: #446ba9;
+  position: absolute;
+  bottom: 0;
+  left: 115px;
+}
+.form-dangki-3 {
+  padding-top: 30px;
+}
+.form-dangki-3 form {
+  width: 320px;
+}
+.form-dangki-3 table {
+  background-color: white;
+  width: 90%;
+  margin: 0 auto;
+}
+.form-dangki-3 td.form3-first {
+  padding-top: 30px;
+}
+.form-dangki-3 td {
+  border: 0;
+  width: 100%;
+  padding: 5px;
+}
+.form-dangki-3 td input {
+  width: 80%;
+}
+.form-dangki-3 td textarea {
+  width: 90%;
+}
+.feedback-khachhang {
+  background-image: url('../wp-content/uploads/2020/12/blurImgae.jpg');
+  background-size: cover;
+  padding-top: 20px;
+}
+.feedback-khachhang .title_feedback {
+  font-size: 28px;
+  text-decoration: underline;
+  font-style: italic;
+  color: white;
+  text-align: center;
+}
+.moitruongphongkham {
+  width: 100%;
+  text-align: center;
+}
+.moitruongphongkham .title_moitruongphongkham {
+  font-size: 31px;
+  text-transform: uppercase;
+  font-weight: bolder;
+  color: #446ba9;
+  position: relative;
+  margin-bottom: 20px;
+}
+.moitruongphongkham .title_moitruongphongkham:after {
+  content: "";
+  width: 150px;
+  height: 2px;
+  background-color: #446ba9;
+  position: absolute;
+  bottom: 0;
+  left: 115px;
 }</style>
 <!-- end Simple Custom CSS and JS -->
