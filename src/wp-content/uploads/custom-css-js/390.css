@@ -263,5 +263,141 @@
   position: absolute;
   bottom: 0;
   left: 115px;
+}
+.footer-direction {
+  background-color: #3780ae;
+}
+.footer-direction table {
+  width: 100%;
+  border-spacing: 0;
+}
+.footer-direction td {
+  border: 0;
+  padding: 0;
+}
+.footer-direction td.item-fd table {
+}
+.footer-direction td.item-fd {
+	width: 50%;
+}
+.footer-direction td.item-fd .small-icon-fd img {
+  width: 30px;
+  height: 30px;
+}
+.footer-direction td.item-fd div {
+  background-color: #bdd0dd;
+  padding: 15px;
+  width: 100%;
+  margin: 0 auto;
+  margin-bottom: 2px;
+  color: #3f6180;
+}
+.footer-direction td.item-fd div.item-inner-fd.left {
+  width: 99%;
+  margin: unset;
+}
+.footer-direction .thongtinphongkham-fd {
+  color: white;
+  text-transform: uppercase;
+  font-size: 22px;
+  font-weight: bolder;
+  padding: 10px;
+  width: 270px;
+  border-bottom: 1px solid white;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+.footer-direction .info-fd {
+  color: white;
+  font-weight: bolder;
+  font-size: 17px;
+  width: 100%;
+  text-align: center;
+}
+.footer-direction td.firstboxFd {
+  color: white;
+  text-align: center;
+  padding-bottom: 20px;
+}
+.footer-direction .icon-fd {
+  width: 100%;
+  text-align: center;
+}
+.footer-direction .icon-fd img {
+  width: 80px;
+}
+.footer-direction td.firstboxFd .date-time-td {
+  font-size: 22px;
+  font-weight: bold;
+}
+.footer-direction td.lastboxFd {
+  padding-bottom: 40px;
+}
+.home-mb-container {
+  position: relative;
+}
+.footer-home-mb {
+  background-color: white !important;
+}
+.footer-box {
+  position: fixed;
+  bottom: 0;
+  z-index: 99999;
+}
+.footer-box td {
+  padding: 0;
+  border: 0;
+}
+#toTop {
+  bottom: 85px;
+}
+.top-control-mb {
+  max-width: 100%
+}
+.top-control-mb table {
+  width: 100%;
+  max-width: 100%;
+}
+.top-control-mb td {
+  padding: 0;
+  border: 0;
+  vertical-align: middle;
+}
+.top-control-mb td.icon-menu-mb {
+  width: 15%;
+  text-align: center;
+}
+.top-control-mb .form-search-mb input {
+  width: 200px;
+  height: 20px;
+  border: 0;
+  background-color: transparent;
+  color: white;
+}
+.top-control-mb .form-search-mb input::placeholder {
+  color: white;
+  font-style: italic;
+}
+.top-control-mb .form-search-mb input:focus {
+  border: 0;
+}
+.top-control-mb .form-search-mb td {
+   padding: 0;
+  border: 0;
+}
+.top-control-mb .form-search-mb .button-search-mb {
+  height: 30px;
+  padding: 5px 10px 10px 10px;
+  border-radius: 30px;
+  font-size: 11px;
+  background-color: #ffffff;
+  color: #8a8a8a;
+  font-style: italic;
+}
+.top-control-mb .wrap-search-td {
+  height: 50px;
+  padding: 0px 20px 0px 20px;
+  border-radius: 20px;
+  background-image: linear-gradient(#4d98c9, #59c0e5);
 }</style>
 <!-- end Simple Custom CSS and JS -->

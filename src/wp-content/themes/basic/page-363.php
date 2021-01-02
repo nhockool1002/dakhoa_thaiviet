@@ -1,5 +1,5 @@
 <?php get_header('home-mb'); ?>
-	<main id="content" class="content">
+	<main id="content" class="content home-mb-container">
     <div class="container-page-363">
       <!-- direction -->
       <?php require_once('part/direction.php'); ?>
@@ -21,7 +21,9 @@
       <?php require_once('part/feedback.php'); ?>
       <!-- Môi trường phòng khám -->
       <?php require_once('part/moitruongphongkham.php'); ?>
+      <!-- Footer Direction -->
+      <?php require_once('part/footer-direction.php'); ?>
     </div>
 	</main> <!-- #content -->
 	<?php //get_sidebar(); ?>
-<?php get_footer(); ?>
+<?php get_footer('home-mb'); ?>
