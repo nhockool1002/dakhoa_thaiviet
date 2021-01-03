@@ -1,6 +1,12 @@
 <!-- start Simple Custom CSS and JS -->
 <style type="text/css">
-#topCol { padding-top: 100px; }
+#topCol {}
+.featured-content.wrap {
+  margin: 0 auto;
+}
+.site-content {
+  margin: 0 auto;
+}
 #topCol .topColItem {
   color: #6b6e6c;
 }
