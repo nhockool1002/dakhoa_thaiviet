@@ -1,6 +1,12 @@
 <!-- start Simple Custom CSS and JS -->
 <style type="text/css">
-#topCol { padding-top: 100px; }
+#topCol {}
+.featured-content.wrap {
+  margin: 0 auto;
+}
+.site-content {
+  margin: 0 auto;
+}
 #topCol .topColItem {
   color: #6b6e6c;
 }
@@ -205,5 +211,8 @@
 }
 .itemDirection {
   padding-top: 20px;
+}
+.elementor-40 .elementor-element.elementor-element-292ff2d:not(.elementor-motion-effects-element-type-background), .elementor-40 .elementor-element.elementor-element-292ff2d > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+  background-image: url('wp-content/uploads/2020/12/blurImgae.jpg');
 }</style>
 <!-- end Simple Custom CSS and JS -->

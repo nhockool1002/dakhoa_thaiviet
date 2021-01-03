@@ -28,17 +28,17 @@
 				<tr>
 					<td>
 						<a href="#">
-							<img src="http://localhost:8766/wp-content/uploads/2021/01/phoneft.png" />
+							<img src="/wp-content/uploads/2021/01/phoneft.png" />
 						</a>
 					</td>
 					<td>
 						<a href="#">
-							<img src="http://localhost:8766/wp-content/uploads/2021/01/dateft.png" />
+							<img src="/wp-content/uploads/2021/01/dateft.png" />
 						</a>
 					</td>
 					<td>
 						<a href="#">
-							<img src="http://localhost:8766/wp-content/uploads/2021/01/online.png" />
+							<img src="/wp-content/uploads/2021/01/online.png" />
 						</a>
 					</td>
 				</tr>
