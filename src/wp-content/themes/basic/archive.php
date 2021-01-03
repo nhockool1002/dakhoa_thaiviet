@@ -1,4 +1,4 @@
-<?php get_header(); ?>
+<?php get_header('home-mb'); ?>
 	<main id="content">
     <?php do_action( 'basic_main_archive_inner_begin' ); ?>
 
@@ -11,9 +11,15 @@
 	?>
 
 	<header class="inform">
+		<!-- direction -->
+		<?php require_once('part/direction.php'); ?>
+		<!-- slider -->
+		<?php require_once('part/slider-home-mb.php'); ?>
 	<?php if (is_category()) : ?>
-		<h1><?php _e( 'Category', 'basic' ); ?> &laquo;<?php single_cat_title(''); ?>&raquo;</h1>
+		<div class="totalTitleCat">
+		<h3><?php _e( 'Category', 'basic' ); ?> &laquo;<?php single_cat_title(''); ?>&raquo;</h3>
 		<?php if ( $not_paged ) echo '<div class="archive-desc">'. category_description() .'</div>'; ?>
+		</div>
 	<?php elseif( is_tag() ) : ?>
 		<h1><?php _e( 'Tag', 'basic' ); ?> &laquo;<?php single_tag_title(); ?>&raquo;</h1>
 		<?php if ( $not_paged ) echo '<div class="archive-desc">'. tag_description() .'</div>'; ?>
@@ -32,7 +38,7 @@
 	</header>
 
 	<?php do_action( 'basic_main_archive_after_before_loop' ); ?>
-
+	<div class="wrapper-post-list">
 	<?php while (have_posts()) : the_post(); 
 
 		get_template_part( 'content' ); 
@@ -44,9 +50,10 @@
 		'prev_text' => __( '&laquo; Prev', 'basic'),
 		'next_text' => __( 'Next &raquo;', 'basic'),
 	)) );
+	?>
+	</div>
 
-
-else: ?>
+<?php else: ?>
 		
 	<div class="post">
 		<h1><?php _e( 'Posts not found', 'basic' ); ?></h1>
@@ -55,7 +62,18 @@ else: ?>
 		
 <?php endif; ?>
 
-    <?php do_action( 'basic_main_archive_inner_end' ); ?>
+		<?php do_action( 'basic_main_archive_inner_end' ); ?>
+		<br />
+		<!-- Tin tức nổi bật-->
+		<?php require_once('part/tintucnoibat.php'); ?>
+		<!-- Phương pháp DHA-->
+		<?php require_once('part/phuongphapdha.php'); ?>
+		<!-- Feedback-->
+		<?php require_once('part/feedback.php'); ?>
+		<!-- Môi trường phòng khám -->
+		<?php require_once('part/moitruongphongkham.php'); ?>
+		<!-- Footer Direction -->
+		<?php require_once('part/footer-direction.php'); ?>
 	</main> <!-- #content -->
 <?php get_sidebar(); ?>
-<?php get_footer(); ?>
+<?php get_footer('home-mb'); ?>

@@ -1,0 +1,55 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.totalTitleCat .archive-desc {
+  display: none;
+}
+.articleCat article {
+  margin-bottom: 0;
+}
+.itemPostInCategory td {
+  padding: 0;
+  vertical-align: top;
+  border: 0;
+}
+a.imagesThumbCat {
+  text-decoration: none;
+}
+.imagesThumbCat img {
+  width: 100px !important;
+  height: 80px !important;
+  margin: 0;
+}
+
+.itemPostInCategory td.thumb-cat-td {
+  text-align: center;
+  width: 20%;
+}
+.itemPostInCategory td.cont-cat-td {
+  padding-left: 15px;
+}
+.excerptWrapper p {
+  font-size: 12px;
+}
+.social_share {
+  display: none;
+}
+.relative-post-wrapper table {
+  width: 100%;
+}
+.relative-post-wrapper a.urlPost {
+  text-decoration: none;
+  font-weight: bold;
+}
+h4.widget-title {
+    font-size: 22px;
+    margin: 0;
+    display: inline-block;
+    background-color: #37aea8;
+    width: 100%;
+    padding: 5px;
+    color: white;
+}
+h4.widget-title:after {
+  display: none;
+}</style>
+<!-- end Simple Custom CSS and JS -->

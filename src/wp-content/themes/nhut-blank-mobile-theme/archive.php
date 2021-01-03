@@ -37,7 +37,7 @@ get_header();
 				<i class="fa fa-clock-o" aria-hidden="true"></i>
 			</td>
 			<td class="content-drct">
-					<div class="elementor-text-editor elementor-clearfix"><p class="topColItemTitle"> Gian Làm Việc</p>
+					<div class="elementor-text-editor elementor-clearfix"><p class="topColItemTitle">Thời Gian Làm Việc</p>
 					<p class="detail-drct">8:00 – 20:00</p>
 					<p class="topColItemSmallText">Tất cả các ngày trong tuần, kể cả ngày nghỉ lễ</p></div>
 			</td>

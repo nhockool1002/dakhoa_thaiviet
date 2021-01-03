@@ -32,27 +32,67 @@
   </div>
 
   <div id="gioithieu" class="tabcontent">
-    <h3>Giới thiệu</h3>
-    <p>Menu Giới thiệu</p>
+    <div class='content-menu'>
+      <?php 
+        $array = [
+          'menu' => 'gioithieu_menu',
+          'menu_class' => 'menu_wrapper',
+          'container' => 'ul_wrapper_menu'
+        ];
+        wp_nav_menu($array)
+      ?>
+    </div>
   </div>
 
   <div id="namkhoa" class="tabcontent">
-    <h3>Nam Khoa</h3>
-    <p>Menu Nam khoa</p> 
+    <div class='content-menu'>
+      <?php 
+        $array = [
+          'menu' => 'namkhoa_menu',
+          'menu_class' => 'menu_wrapper',
+          'container' => 'ul_wrapper_menu'
+        ];
+        wp_nav_menu($array)
+      ?>
+    </div>
   </div>
 
   <div id="phukhoa" class="tabcontent">
-    <h3>Phụ Khoa</h3>
-    <p>Menu Phụ khoa</p>
+    <div class='content-menu'>
+      <?php 
+        $array = [
+          'menu' => 'phukhoa_menu',
+          'menu_class' => 'menu_wrapper',
+          'container' => 'ul_wrapper_menu'
+        ];
+        wp_nav_menu($array)
+      ?>
+    </div>
   </div>
 
   <div id="benhxahoi" class="tabcontent">
-    <h3>Bệnh xã hội</h3>
-    <p>Menu Bệnh Xã Hội</p>
+    <div class='content-menu'>
+      <?php 
+        $array = [
+          'menu' => 'benhxahoi_menu',
+          'menu_class' => 'menu_wrapper',
+          'container' => 'ul_wrapper_menu'
+        ];
+        wp_nav_menu($array)
+      ?>
+    </div>
   </div>
 
   <div id="dinhchithai" class="tabcontent">
-    <h3>Đình chỉ thai</h3>
-    <p>Menu Đình chỉ thai</p>
+    <div class='content-menu'>
+      <?php 
+        $array = [
+          'menu' => 'dinhchithai_menu',
+          'menu_class' => 'menu_wrapper',
+          'container' => 'ul_wrapper_menu'
+        ];
+        wp_nav_menu($array)
+      ?>
+    </div>
   </div>
 </div>

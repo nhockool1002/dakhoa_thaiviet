@@ -3,7 +3,7 @@
     <tr>
       <td colspan='2' class="firstboxFd">
         <div class="icon-fd">
-          <img src="../wp-content/uploads/2020/12/icon-dich-vu-dat-lich-hover-1.png" />
+          <img src="/wp-content/uploads/2020/12/icon-dich-vu-dat-lich-hover-1.png" />
         </div>
         <div class="date-time-td">
           Mở cửa: 8h - 20h

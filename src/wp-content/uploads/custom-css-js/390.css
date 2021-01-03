@@ -373,6 +373,7 @@
   border: 0;
   background-color: transparent;
   color: white;
+  padding: 0;
 }
 .top-control-mb .form-search-mb input::placeholder {
   color: white;
@@ -399,5 +400,26 @@
   padding: 0px 20px 0px 20px;
   border-radius: 20px;
   background-image: linear-gradient(#4d98c9, #59c0e5);
+}
+.baivietlienquan {
+  width: 100%;
+  text-align: center;
+}
+.baivietlienquan .title_baivietlienquan {
+  font-size: 31px;
+  text-transform: uppercase;
+  font-weight: bolder;
+  color: #446ba9;
+  position: relative;
+  margin-bottom: 20px;
+}
+.baivietlienquan .title_baivietlienquan:after {
+  content: "";
+  width: 150px;
+  height: 2px;
+  background-color: #446ba9;
+  position: absolute;
+  bottom: 0;
+  left: 115px;
 }</style>
 <!-- end Simple Custom CSS and JS -->
