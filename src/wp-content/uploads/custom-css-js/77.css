@@ -211,5 +211,8 @@
 }
 .itemDirection {
   padding-top: 20px;
+}
+.elementor-40 .elementor-element.elementor-element-292ff2d:not(.elementor-motion-effects-element-type-background), .elementor-40 .elementor-element.elementor-element-292ff2d > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+  background-image: url('wp-content/uploads/2020/12/blurImgae.jpg');
 }</style>
 <!-- end Simple Custom CSS and JS -->
