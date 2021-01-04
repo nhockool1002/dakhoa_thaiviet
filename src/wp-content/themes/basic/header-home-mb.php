@@ -27,7 +27,7 @@
 					<?php do_action( 'basic_before_sitetitle' ); ?>
 					<div class="header-top-wrap">
 					<div class="logo-mb">
-						<img src="/wp-content/uploads/2021/01/logo-mb.png" />
+						<img src="/wp-content/uploads/2021/01/cropped-logo-dktv.png" />
 					</div>
 					<div class="top-control-mb">
 						<table>

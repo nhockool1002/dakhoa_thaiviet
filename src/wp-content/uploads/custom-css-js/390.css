@@ -232,7 +232,7 @@
   width: 90%;
 }
 .feedback-khachhang {
-  background-image: url('../wp-content/uploads/2020/12/blurImgae.jpg');
+  background-image: url('/wp-content/uploads/2020/12/blurImgae.jpg');
   background-size: cover;
   padding-top: 20px;
 }
