@@ -51,5 +51,19 @@ h4.widget-title {
 }
 h4.widget-title:after {
   display: none;
+}
+.logo-mb {
+  text-align: center;
+}
+.logo-mb img {
+  width: 250px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+.entry-box .entry {
+  text-align: justify;
+  padding-left: 10px;
+  padding-right: 10px;
+  box-sizing: border-box;
 }</style>
 <!-- end Simple Custom CSS and JS -->
