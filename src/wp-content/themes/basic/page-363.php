@@ -1,3 +1,8 @@
+<?php 
+  if (wp_is_mobile() == 0) {
+    wp_redirect('/');
+  }
+?>
 <?php get_header('home-mb'); ?>
 	<main id="content" class="content home-mb-container">
     <div class="container-page-363">
