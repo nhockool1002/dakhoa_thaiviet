@@ -75,5 +75,5 @@
 		<!-- Footer Direction -->
 		<?php require_once('part/footer-direction.php'); ?>
 	</main> <!-- #content -->
-<?php get_sidebar(); ?>
+<?php //get_sidebar(); ?>
 <?php get_footer('home-mb'); ?>

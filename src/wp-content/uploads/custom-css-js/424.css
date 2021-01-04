@@ -43,7 +43,7 @@
   float: left;
   padding: 0px 12px;
   border: 1px solid #ccc;
-  width: 69.3%;
+  width: 70%;
   border-left: none;
   height: 100%;
   background-color: #ffffff;
@@ -51,13 +51,13 @@
 }
 .menu-mb-wrap {
   position: fixed;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 65px;
+  position: fixed;
   z-index: 999999;
   display: none;
   transition: 1s ease all;
+  max-width: 375px;
+  height: 100%;
+  top: 0;
 }
 .black-overlay {
   position: fixed;
@@ -83,13 +83,16 @@
 }
 .menu-mb-wrap .inner-wrapper {
   position: relative;
-  width: 100%;
+  width: 375px;
   height: 100%;
+}
+.loiich-menu-mb img {
+  width: 100%;
 }
 .inner-wrapper .close-menu {
   position: absolute;
   top: 0;
-  right: -19%;
+  right: 0;
 }
 .inner-wrapper .imageMenu {
   margin-bottom: 10px;
@@ -107,5 +110,20 @@ ul.menu_wrapper li a {
   text-decoration: none;
   font-size: 12px;
   color: #353535;
-}</style>
+}
+@media screen and (min-width: 414px) {
+  .menu-mb-wrap .inner-wrapper {
+    width: 414px;
+  }
+  .menu-mb-wrap {
+    max-width: 414px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  #content {
+    width: 100%;
+    float: none;
+  }
+}
+</style>
 <!-- end Simple Custom CSS and JS -->
