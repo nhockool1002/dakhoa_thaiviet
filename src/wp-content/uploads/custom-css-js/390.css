@@ -421,5 +421,13 @@
   position: absolute;
   bottom: 0;
   left: 115px;
+}
+.header-top-wrap {
+  position: fixed;
+  top: 0;
+  z-index: 9999999;
+  background-color: white;
+  left: 0;
+  right: 0;
 }</style>
 <!-- end Simple Custom CSS and JS -->
