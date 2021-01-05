@@ -56,9 +56,9 @@ h4.widget-title:after {
   text-align: center;
 }
 .logo-mb img {
-  width: 250px;
+  width: 180px;
   margin: 0 auto;
-  margin-bottom: 10px;
+  margin-bottom: 3px;
 }
 .entry-box .entry {
   text-align: justify;

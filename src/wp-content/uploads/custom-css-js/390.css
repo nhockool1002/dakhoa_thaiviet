@@ -405,16 +405,15 @@
 .top-control-mb .form-search-mb .button-search-mb {
   height: 30px;
   padding: 5px 10px 10px 10px;
-  border-radius: 30px;
+  border-radius: 0px;
   font-size: 11px;
   background-color: #ffffff;
   color: #8a8a8a;
   font-style: italic;
 }
 .top-control-mb .wrap-search-td {
-  height: 50px;
+  height: 35px;
   padding: 0px 20px 0px 20px;
-  border-radius: 20px;
   background-image: linear-gradient(#4d98c9, #59c0e5);
 }
 .baivietlienquan {
@@ -445,6 +444,17 @@
     background-color: white;
     width: 100%;
     max-width: 375px;
+}
+.header-top-wrap td {
+  border: 0;
+  vertical-align: middle;
+}
+.header-top-wrap td.logo-mb-wrapper {
+  padding: 0;
+  vertical-align: middle;
+}
+.header-top-wrap td .logo-mb {
+  text-align: left;
 }
 @media screen and (min-width: 414px) {
   .header-top-wrap {

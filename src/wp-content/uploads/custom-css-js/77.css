@@ -1,5 +1,8 @@
 <!-- start Simple Custom CSS and JS -->
 <style type="text/css">
+#topCol {
+  padding-top: 0px;
+}
 #topCol {}
 .featured-content.wrap {
   margin: 0 auto;
@@ -65,7 +68,7 @@
   margin-block-end: 0em;
 }
 .serviceTitle h2 {
-  	font-family: 'Bree Serif' !important;
+/*   	font-family: 'Bree Serif' !important; */
     color: #3390b9 !important;
     font-size: 337.5%;
     text-shadow: none;
@@ -143,7 +146,7 @@
   font-size: 35px;
   text-decoration: underline;
   text-decoration-color: #C0C0C0;
-  font-family: 'Bree Serif' !important;
+/*   font-family: 'Bree Serif' !important; */
 }
 .feedBackWrapper {
   padding-top: 30px;

@@ -26,10 +26,6 @@
 					<?php do_action( 'basic_header_top_wrap_begin' ); ?>
 					<?php do_action( 'basic_before_sitetitle' ); ?>
 					<div class="header-top-wrap">
-					<div class="logo-mb">
-						<img src="/wp-content/uploads/2021/01/cropped-logo-dktv.png" />
-					</div>
-					<div class="top-control-mb">
 						<table>
 							<tr>
 								<td class="icon-menu-mb">
@@ -37,21 +33,31 @@
 										<img src="/wp-content/uploads/2021/01/humbutton.png" />
 									</div>
 								</td>
+								<td class="logo-mb-wrapper">
+									<div class="logo-mb">
+										<img src="/wp-content/uploads/2021/01/logo5-scaled.jpg" />
+									</div>
+								</td>
+							</tr>
+						</table>
+					<div class="top-control-mb">
+						<table>
+							<tr>
 								<td class="wrap-search-td">
 									<div class="form-search-mb">
 										<div class="wrapper-inner">
-											<form method="get" action="/">
+											<!-- <form method="get" action="/"> -->
 												<table>
 														<tr>
 															<td>
-																<input type="text" name="s" placeholder="Tìm kiếm"/>
+																<input type="text" name="s" placeholder="Nhập SĐT để được tư vấn" />
 															</td>
 															<td>
-																<button type="submit" class="button-search-mb">Tìm kiếm</button>
+																<button type="submit" class="button-search-mb">Gửi</button>
 															</td>
 														</tr>
 												</table>
-											</form>
+											<!-- </form> -->
 										</div>
 									</div>
 								</td>
