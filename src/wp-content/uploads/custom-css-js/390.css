@@ -1,5 +1,17 @@
 <!-- start Simple Custom CSS and JS -->
 <style type="text/css">
+.wrapper-all-mobile {
+  width: 414px;
+  max-width: 414px;
+  margin: 0 auto;
+  position: relative;
+}
+#header {
+  position: relative;
+}
+#wpadminbar {
+  display: none;
+}
 .direction-top-mb {
   margin-top: 15px;
 }
@@ -346,6 +358,7 @@
   position: fixed;
   bottom: 0;
   z-index: 99999;
+  max-width: 375px;
 }
 .footer-box td {
   padding: 0;
@@ -426,11 +439,27 @@
   left: 115px;
 }
 .header-top-wrap {
-  position: fixed;
-  top: 0;
-  z-index: 9999999;
-  background-color: white;
-  left: 0;
-  right: 0;
+    position: fixed;
+    top: 0;
+    z-index: 9999999;
+    background-color: white;
+    width: 100%;
+    max-width: 375px;
+}
+@media screen and (min-width: 414px) {
+  .header-top-wrap {
+    max-width: 414px;
+  }
+  .footer-box {
+    max-width: 414px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .wrapper {
+    max-width: 414px;
+  }
+  .layout-center #content {
+    width: 100%;
+  }
 }</style>
 <!-- end Simple Custom CSS and JS -->
