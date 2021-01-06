@@ -69,5 +69,42 @@ h2.entry-title.added-for-category {
 }
 ul.no-bullets li:before, ul.no-bullets .time {
   display: none;
+}
+
+.search-pc-form {
+  width: 250px;
+  height: 35px;
+  line-height: 35px;
+  padding: 0px 5px 0px 5px;
+  background-image: linear-gradient(#4d98c9, #59c0e5);
+  border-radius: 20px;
+}
+.search-pc-form td {
+  vertical-align: middle;
+  padding: 0;
+}
+.search-pc-form input {
+  background-color: transparent;
+  border: 0
+}
+.search-pc-form input:focus {
+  outline: none;
+  border: 0;
+}
+.search-pc-form input::placeholder {
+  color: #6b6e6c;
+  font-weight: 500;
+  font-style: italic;
+}
+.search-pc-form button {
+  	height: 20px;
+    line-height: 5px;
+    width: 75px;
+    background-color: white;
+    color: #6c6e6c;
+    font-size: 12px;
+    font-style: oblique;
+    border-radius: 30px;
+}
 }</style>
 <!-- end Simple Custom CSS and JS -->

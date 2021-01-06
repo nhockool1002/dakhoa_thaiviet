@@ -54,23 +54,41 @@
 				<?php endif; ?>
 			</div><!-- .site-branding -->
 
-			<nav id="site-navigation" class="main-navigation">
-				<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e( 'Menu', 'the-blank' ); ?></button>
-				<?php
-				if ( has_nav_menu( 'menu-1' ) ) {
-					wp_nav_menu(
-						array(
-							'theme_location' => 'menu-1',
-							'menu_id'        => 'primary-menu',
-						)
-					);
-				} else if ( current_user_can( 'edit_theme_options' ) ) {
-					echo '<p class="assign-menu">';
-					echo esc_html_e( 'Please Assign Menu', 'the-blank' );
-					echo '</p>';
-				}
-				?>
-			</nav><!-- #site-navigation -->
+			<table>
+					<tr>
+							<td>
+								<nav id="site-navigation" class="main-navigation">
+									<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e( 'Menu', 'the-blank' ); ?></button>
+									<?php
+									if ( has_nav_menu( 'menu-1' ) ) {
+										wp_nav_menu(
+											array(
+												'theme_location' => 'menu-1',
+												'menu_id'        => 'primary-menu',
+											)
+										);
+									} else if ( current_user_can( 'edit_theme_options' ) ) {
+										echo '<p class="assign-menu">';
+										echo esc_html_e( 'Please Assign Menu', 'the-blank' );
+										echo '</p>';
+									}
+									?>
+								</nav><!-- #site-navigation -->
+							</td>
+							<td>
+									<div class="search-pc-form">
+										<form method='get'>
+											<table>
+												<tr>
+													<td><input name="s" type="text" placeholder="Tìm kiếm ...."></td>
+													<td><button type='submit'>Gửi</button>
+												</tr>
+											</table>
+										</form>
+									</div>
+							</td>
+					</tr>
+			</table>
 		</div>
 	</header><!-- #masthead -->
 
