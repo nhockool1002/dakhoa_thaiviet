@@ -75,7 +75,7 @@
 									?>
 								</nav><!-- #site-navigation -->
 							</td>
-							<td>
+							<td style='width: 80px;'>
 									<div class="search-pc-form">
 										<form method='get'>
 											<table>
