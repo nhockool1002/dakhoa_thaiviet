@@ -106,5 +106,7 @@ ul.no-bullets li:before, ul.no-bullets .time {
     font-style: oblique;
     border-radius: 30px;
 }
+html.wf-roboto-n3-active.wf-roboto-n4-active.wf-active {
+  margin-top: 0px !important;
 }</style>
 <!-- end Simple Custom CSS and JS -->
