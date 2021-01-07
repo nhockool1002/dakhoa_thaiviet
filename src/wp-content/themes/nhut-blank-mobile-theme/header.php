@@ -82,7 +82,7 @@
 										<form method='get'>
 											<table>
 												<tr>
-													<td><input name="s" type="text" placeholder="Tìm kiếm ...."></td>
+													<td style="width: 55%;"><input name="s" type="text" placeholder="Tìm kiếm ...." style="width: 100%"></td>
 													<td><button type='submit'>Gửi</button>
 												</tr>
 											</table>
