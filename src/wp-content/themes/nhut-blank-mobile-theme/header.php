@@ -15,7 +15,9 @@
 <head>
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Phòng Khám Đa Khoa Uy Tín TPHCM</title>
 	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="icon" href="/wp-content/uploads/2021/01/dktv-icon.jpg" type="image/jpg" sizes="20x20">
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 	<?php wp_head(); ?>
 </head>

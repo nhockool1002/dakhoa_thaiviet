@@ -8,6 +8,8 @@
 
 	<?php wp_head(); ?>
 	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<title>Phòng Khám Đa Khoa Uy Tín TPHCM</title>
+	<link rel="icon" href="/wp-content/uploads/2021/01/dktv-icon.jpg" type="image/jpg" sizes="20x20">
 	<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<script
