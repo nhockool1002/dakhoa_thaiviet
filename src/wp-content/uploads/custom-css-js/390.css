@@ -86,7 +86,7 @@
   border-collapse: separate;
 }
 .table-cacchuyenkhoa td {
-  width: 33.33%;
+  width: 25%;
   height: 100px;
   vertical-align: middle;
   padding: 0;
@@ -121,7 +121,7 @@
   margin-top: 20px;
   color: #446ba9;
   font-weight: bolder;
-  font-size: 18px;
+  font-size: 15px;
 }
 .doingubacsi {
   width: 100%;

@@ -38,6 +38,17 @@
             BỆNH XÃ HỘI
           </div>
         </td>
+        <td>
+          <div class="icon-hover">
+            <img src="/wp-content/uploads/2021/01/icon-ke-hoach-hoa-gia-dinh-02.png" />
+          </div>
+          <div class="icon-not-hover">
+            <img src="/wp-content/uploads/2021/01/icon-ke-hoach-hoa-gia-dinh-01.png" />
+          </div>
+          <div class="name_chuyenkhoa">
+            KẾ HOẠCH HOÁ GIA ĐÌNH
+          </div>
+        </td>
       </tr>
     </table>
   </div>
