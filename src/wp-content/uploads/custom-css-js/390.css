@@ -94,6 +94,9 @@
   border-radius: 10px;
   border: 1px solid #446ba9;
 }
+.table-cacchuyenkhoa td a {
+  text-decoration: none;
+}
 .table-cacchuyenkhoa td:hover {
   background-color: #446ba9;
 }

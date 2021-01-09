@@ -27,7 +27,7 @@
     </button>
     <button class="tablinks" onclick="openCity(event, 'dinhchithai')" class="menuDinhchithai">
       <img src="/wp-content/uploads/2021/01/dinhchithai.png" class="imageMenu" /><br />
-      Đình chỉ thai
+      Kế hoạch hoá gia đình
     </button>
   </div>
 
