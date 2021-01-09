@@ -349,7 +349,23 @@
   font-weight: bold;
 }
 .footer-direction td.lastboxFd {
-  padding-bottom: 40px;
+  padding-bottom: 10px;
+}
+.attention-note {
+  width: 100%;
+  height: 125px;
+  text-align: center;
+  color: black;
+  font-weight: 300;
+  padding: 10px;
+  font-size: 16px;
+}
+.attention-note.single-page {
+  display: none;
+}
+.attention-note.pc-version {
+  color: white;
+  height: 30px;
 }
 .home-mb-container {
   position: relative;
@@ -368,7 +384,7 @@
   border: 0;
 }
 #toTop {
-  bottom: 85px;
+  bottom: 165px;
 }
 .top-control-mb {
   max-width: 100%
