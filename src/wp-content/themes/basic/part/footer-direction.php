@@ -92,7 +92,7 @@
       </td>
     </tr>
     <tr>
-      <td colspan='2' class='lastboxFd'>
+      <td colspan='2' class='lastboxFd <?php if(is_page('363')) echo "lasthome-363"; ?>'>
         <div class="thongtinphongkham-fd">
           THÔNG TIN PHÒNG KHÁM
         </div>
@@ -107,5 +107,14 @@
         </div>
       </td>
     </tr>
+    <?php if (is_page('363')) { ?>
+      <tr>
+        <td colspan='2'>
+        <div class="attention-note attent-363">
+          (*) Lưu ý : Hiệu quả hổ trợ điều trị phụ thuộc vào cơ địa của mỗi người
+        </div>
+        </td>
+      </tr>
+    <?php } ?>
   </table>
 </div>

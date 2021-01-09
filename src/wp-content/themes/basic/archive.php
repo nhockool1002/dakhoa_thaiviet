@@ -72,6 +72,9 @@
 		<?php require_once('part/feedback.php'); ?>
 		<!-- Môi trường phòng khám -->
 		<?php require_once('part/moitruongphongkham.php'); ?>
+		<div class="attention-note <?php if (is_single()) echo 'single-page'; ?>">
+        (*) Lưu ý : Hiệu quả hổ trợ điều trị phụ thuộc vào cơ địa của mỗi người
+      </div>
 		<!-- Footer Direction -->
 		<?php require_once('part/footer-direction.php'); ?>
 	</main> <!-- #content -->

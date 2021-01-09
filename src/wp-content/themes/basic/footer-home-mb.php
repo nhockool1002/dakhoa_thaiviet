@@ -44,9 +44,6 @@
 				</tr>
 			</table>
 	</div>
-	<div class="attention-note <?php if (is_single()) echo 'single-page'; ?>">
-		(*) Lưu ý : Hiệu quả hổ trợ điều trị phụ thuộc vào cơ địa của mỗi người
-	</div>
 	<?php do_action( 'basic_after_footer_copyrights' ); ?>
 
 </footer>
