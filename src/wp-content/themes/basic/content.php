@@ -68,7 +68,7 @@ $markup = ( is_single() && ( $markup_opt || false === $markup_opt ) ) ? true : f
 		<!-- Bài viết liên quan-->
 		<?php require_once('part/relative-post.php'); ?>
 		<div class="attention-note">
-			(*) Lưu ý : Hiệu quả điều trị phụ thuộc vào cơ địa của mỗi người
+			(*) Lưu ý : Hiệu quả hổ trợ điều trị phụ thuộc vào cơ địa của mỗi người
 		</div>
 		<br />
 		<!-- Tin tức nổi bật-->

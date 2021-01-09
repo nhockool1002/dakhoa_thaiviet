@@ -116,7 +116,7 @@ html {
     <tr>
       <td colspan="4">
       <div class="attention-note pc-version">
-        (*) Lưu ý : Hiệu quả điều trị phụ thuộc vào cơ địa của mỗi người
+        (*) Lưu ý : Hiệu quả hổ trợ điều trị phụ thuộc vào cơ địa của mỗi người
       </div>
       </td>
     </tr>

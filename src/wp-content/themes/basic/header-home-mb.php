@@ -37,7 +37,7 @@
 								</td>
 								<td class="logo-mb-wrapper">
 									<div class="logo-mb">
-										<img src="/wp-content/uploads/2021/01/logo5-scaled.jpg" />
+										<a href='/'><img src="/wp-content/uploads/2021/01/logo5-scaled.jpg" /></a>
 									</div>
 								</td>
 							</tr>
