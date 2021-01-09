@@ -47,7 +47,11 @@ get_header();
 <?php
 echo do_shortcode('[smartslider3 slider="2"]');
 ?>
-
+		<?php
+			if ( function_exists('yoast_breadcrumb') ) {
+				yoast_breadcrumb( '<p id="breadcrumbs">','</p>' );
+			}
+		?>
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main">
 
@@ -55,7 +59,7 @@ echo do_shortcode('[smartslider3 slider="2"]');
 
 			<header class="page-header">
 				<?php
-				the_archive_title( '<h2 class="page-title">', '</h2>' );
+				// the_archive_title( '<h2 class="page-title">', '</h2>' );
 				the_archive_description( '<div class="archive-description">', '</div>' );
 				?>
 			</header><!-- .page-header -->

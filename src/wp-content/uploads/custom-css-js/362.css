@@ -108,5 +108,46 @@ ul.no-bullets li:before, ul.no-bullets .time {
 }
 html.wf-roboto-n3-active.wf-roboto-n4-active.wf-active {
   margin-top: 0px !important;
+}
+
+p#breadcrumbs a {
+    color: #4fa3d0;
+    font-size: 18px;
+    font-weight: 700;
+}
+span.breadcrumb_last {
+    color: #4fa3d0;
+    font-size: 18px;
+    font-weight: bold;
+}
+.button-zone {
+    width: 100%;
+    text-align: right;
+  	margin-top: 10px;
+}
+a.tuvan-category {
+    display: inline-block;
+    background-color: #d4d4d4;
+    width: 100px;
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+    margin-right: 10px;
+}
+a.xemthem-category {
+    display: inline-block;
+    background-color: #3290b9;
+    width: 100px;
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+    margin-right: 10px;
+    color: white;
+}
+a.tuvan-category:hover {
+    color: black;
+}
+a.xemthem-category:hover {
+    color: white;
 }</style>
 <!-- end Simple Custom CSS and JS -->
