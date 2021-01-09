@@ -4,7 +4,7 @@
 	<!--[if IE]>
 	<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=edge" /><![endif]-->
 	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
 	<?php wp_head(); ?>
 	<link rel="preconnect" href="https://fonts.gstatic.com">
@@ -37,7 +37,7 @@
 								</td>
 								<td class="logo-mb-wrapper">
 									<div class="logo-mb">
-										<img src="/wp-content/uploads/2021/01/logo5-scaled.jpg" />
+										<a href='/'><img src="/wp-content/uploads/2021/01/logo5-scaled.jpg" /></a>
 									</div>
 								</td>
 							</tr>

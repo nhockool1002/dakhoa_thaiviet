@@ -19,7 +19,7 @@
 				<div class="left">
 					<?php
 					esc_html_e( 'Copyright &copy;&nbsp;', 'the-blank' );
-					echo 'Đa khoa XX XX'
+					echo 'Đa khoa Thái Việt'
 					?>
 					<?php
 					if ( function_exists( 'the_privacy_policy_link' ) ) {
@@ -31,7 +31,7 @@
 					<p>
 						<?php
 							/* translators: 1: Theme name, 2: Theme author. */
-							printf( '<a href="' . esc_url( 'https://shieldthemes.com/' ) . '" target="_blank">Designed by Đa Khoa XX XXX</a>' );
+							printf( '<a href="' . esc_url( 'https://shieldthemes.com/' ) . '" target="_blank">Designed by Đa Khoa Thái Việt</a>' );
 						?>
 					</p>
 				</div>

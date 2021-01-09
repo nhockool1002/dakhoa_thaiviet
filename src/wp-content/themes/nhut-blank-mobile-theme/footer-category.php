@@ -82,9 +82,9 @@ html {
     <tr>
       <td>
         <ul>
-          <li><a href="#"> >> Giới thiệu</a></li>
-          <li><a href="#"> >> Đội ngũ bác sĩ</a></li>
-          <li><a href="#"> >> Cơ sở vật chất</a></li>
+          <li><a href="https://dakhoathaiviet.vn/phong-kham-da-khoa-uy-tin-tai-tphcm/"> >> Giới thiệu</a></li>
+          <li><a href="https://dakhoathaiviet.vn/doi-ngu-bac-si-chuyen-khoa-gioi-chuyen-mon-giau-kinh-nghiem/"> >> Đội ngũ bác sĩ</a></li>
+          <li><a href="https://dakhoathaiviet.vn/co-so-vat-chat-cua-phong-kham-da-khoa-thai-viet/"> >> Cơ sở vật chất</a></li>
           <li><a href="#"> >> Chỉ đường</a></li>
         </ul>
       </td>
@@ -111,6 +111,13 @@ html {
           <li><a href="#"> >> Bệnh lậu</a></li>
           <li><a href="#"> >> Mụn rộp sinh dục</a></li>
         </ul>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="4">
+      <div class="attention-note pc-version">
+        (*) Lưu ý : Hiệu quả hổ trợ điều trị phụ thuộc vào cơ địa của mỗi người
+      </div>
       </td>
     </tr>
   </table>

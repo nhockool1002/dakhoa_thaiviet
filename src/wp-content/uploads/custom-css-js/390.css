@@ -86,13 +86,16 @@
   border-collapse: separate;
 }
 .table-cacchuyenkhoa td {
-  width: 33.33%;
+  width: 25%;
   height: 100px;
   vertical-align: middle;
   padding: 0;
   padding-top: 20px;
   border-radius: 10px;
   border: 1px solid #446ba9;
+}
+.table-cacchuyenkhoa td a {
+  text-decoration: none;
 }
 .table-cacchuyenkhoa td:hover {
   background-color: #446ba9;
@@ -121,7 +124,7 @@
   margin-top: 20px;
   color: #446ba9;
   font-weight: bolder;
-  font-size: 18px;
+  font-size: 15px;
 }
 .doingubacsi {
   width: 100%;
@@ -346,7 +349,36 @@
   font-weight: bold;
 }
 .footer-direction td.lastboxFd {
+  padding-bottom: 70px;
+}
+.footer-direction td.lastboxFd.lasthome-363 {
+  padding-bottom: 10px;
+}
+.attention-note {
+  width: 100%;
+  text-align: center;
+  color: black;
+  font-weight: 300;
+  padding: 10px;
+  font-size: 16px;
+  margin-top: -50px;
+}
+.attention-note.single-page {
+  margin-top: 0px;
+  display: none;
+}
+.attention-note.single-page.show {
+  display: block;
+}
+.attention-note.attent-363 {
+  margin-top: 0px;
+  color: white;
   padding-bottom: 40px;
+}
+.attention-note.pc-version {
+  margin-top: 0px;
+  color: white;
+  height: 30px;
 }
 .home-mb-container {
   position: relative;
@@ -365,7 +397,7 @@
   border: 0;
 }
 #toTop {
-  bottom: 85px;
+  bottom: 165px;
 }
 .top-control-mb {
   max-width: 100%
