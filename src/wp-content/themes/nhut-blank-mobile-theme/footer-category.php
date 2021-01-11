@@ -46,7 +46,7 @@ html {
           <i class="fa fa-volume-control-phone" aria-hidden="true"></i>
         </div>
         <div class="phone-title-ft">Tư vấn miễn phí</div>
-        <div class="phone-headline-ft">028 XXX XXXX</div>
+        <div class="phone-headline-ft">028 35356635</div>
       </td>
       <td>
         <div class="tut-icon">
