@@ -98,18 +98,18 @@ html {
       </td>
       <td>
         <ul>
-          <li><a href="#"> >> Bệnh lý bao quy đầu</a></li>
-          <li><a href="#"> >> Bệnh tiền liệt tuyến</a></li>
-          <li><a href="#"> >> Bệnh sùi mào gà</a></li>
-          <li><a href="#"> >> Bệnh giang mai</a></li>
+          <li><a href="https://dakhoathaiviet.vn/nam-khoa/benh-bao-quy-dau"> >> Bệnh lý bao quy đầu</a></li>
+          <li><a href="https://dakhoathaiviet.vn/nam-khoa/roi-loan-chuc-nang-sinh-ly"> >> Bệnh sinh lý nam</a></li>
+          <li><a href="https://dakhoathaiviet.vn/nam-khoa/viem-duong-tiet-nieu"> >> Bệnh đường tiết niệu</a></li>
+          <li><a href="https://dakhoathaiviet.vn/nam-khoa/benh-ly-tinh-hoan"> >> Bệnh lý tinh hoàn</a></li>
         </ul>
       </td>
       <td>
         <ul>
-          <li><a href="#"> >> Bệnh lý tinh hoàn</a></li>
-          <li><a href="#"> >> Bệnh tiền liệt tuyến</a></li>
-          <li><a href="#"> >> Bệnh lậu</a></li>
-          <li><a href="#"> >> Mụn rộp sinh dục</a></li>
+          <li><a href="https://dakhoathaiviet.vn/phu-khoa/viem-phu-khoa"> >> Bệnh viêm phụ khoa</a></li>
+          <li><a href="https://dakhoathaiviet.vn/phu-khoa/chinh-hinh-phu-khoa"> >> Thẩm mỹ vùng kín</a></li>
+          <li><a href="http://dakhoathaiviet.vn/benh-xa-hoi"> >> Bệnh xã hội</a></li>
+          <li><a href="http://dakhoathaiviet.vn/ke-hoach-hoa-gia-dinh"> >> Đình chỉ thai</a></li>
         </ul>
       </td>
     </tr>
