@@ -2,7 +2,7 @@
   <table>
     <tr>
       <td class="image-uudiem">
-        <img src="wp-content/uploads/2020/12/icon-1.png" />
+        <img src="/wp-content/uploads/2020/12/icon-1.png" />
       </td>
       <td class="content-uudiem">
         <div class="title-uudiem">
@@ -17,7 +17,7 @@
   <table>
     <tr>
       <td class="image-uudiem">
-        <img src="wp-content/uploads/2020/12/icon-2-hover.png" />
+        <img src="/wp-content/uploads/2020/12/icon-2-hover.png" />
       </td>
       <td class="content-uudiem">
         <div class="title-uudiem">
@@ -32,14 +32,14 @@
   <table>
     <tr>
       <td class="image-uudiem">
-        <img src="../wp-content/uploads/2020/12/icon-3-hover.png" />
+        <img src="/wp-content/uploads/2020/12/icon-3-hover.png" />
       </td>
       <td class="content-uudiem">
         <div class="title-uudiem">
-          ĐỘI NGŨ Y TẾ ĐẦU NGÀNH
+          CHI PHÍ MINH BẠCH
         </div>
         <div class="description-uudiem">
-          Hà Đô quy tụ đội ngũ chuyên gia, bác sĩ, dược sĩ và điều dưỡng 
+          Mọi chi phí khám chữa bệnh đều được niêm yết công khai và minh bạch theo đúng quy định của Sở Y tế. Vì vậy, khi tới khám chữa tại đây thì người bệnh hoàn toàn có thể yên tâm, mức giá phù hợp với mọi trường hợp người bệnh.
         </div>
       </td>
     </tr>
@@ -47,14 +47,44 @@
   <table>
     <tr>
         <td class="image-uudiem">
-          <img src="../wp-content/uploads/2020/12/icon-4-hover.png" />
+          <img src="/wp-content/uploads/2020/12/icon-4-hover.png" />
         </td>
         <td class="content-uudiem">
           <div class="title-uudiem">
-            ĐỘI NGŨ Y TẾ ĐẦU NGÀNH
+            BẢO MẬT THÔNG TIN
           </div>
           <div class="description-uudiem">
-            Hà Đô quy tụ đội ngũ chuyên gia, bác sĩ, dược sĩ và điều dưỡng 
+            Phòng khám luôn tôn trọng quyền riêng tư của người bệnh. Do đó, mọi thông tin cá nhân đều được bảo mật tuyệt đối. Do đó, bệnh nhân có thể thoải mái chia sẻ tình trạng bệnh lý, giúp các bác sĩ đưa ra chẩn đoán, cách điều trị chính xác.
+          </div>
+        </td>
+      </tr>
+  </table>
+  <table>
+    <tr>
+        <td class="image-uudiem">
+          <i class="fa fa-ambulance icon-for-uudiem" aria-hidden="true"></i>
+        </td>
+        <td class="content-uudiem">
+          <div class="title-uudiem">
+            TẬN TÌNH, CHU ĐÁO
+          </div>
+          <div class="description-uudiem">
+            Với tiêu chí lấy T M và ĐỨC làm chữ tín, Thái Việt luôn chú trọng đến cung cách phục vụ, chăm sóc bệnh nhân. Với đội ngũ y tá, điều dưỡng, nhân viên y tế nhiều năm kinh nghiệm sẽ luôn làm hài lòng bệnh nhân trong mọi quá trình điều trị.
+          </div>
+        </td>
+      </tr>
+  </table>
+  <table>
+    <tr>
+        <td class="image-uudiem">
+          <i class="fa fa-plus-square icon-for-uudiem" aria-hidden="true"></i>
+        </td>
+        <td class="content-uudiem">
+          <div class="title-uudiem">
+            GIẢI ĐÁP MỌI LÚC MỌI NƠI
+          </div>
+          <div class="description-uudiem">
+            Hệ thống tư vấn của phòng khám phục vụ mọi quý bệnh nhân 24/24. Mỗi một bác sĩ tư vấn tại phòng khám là những người chuyên sâu, luôn giải đáp tận tình, kịp thời mọi thắc mắc của bạn, đồng thời đưa ra lời khuyên chính xác, hữu ích nhất.
           </div>
         </td>
       </tr>

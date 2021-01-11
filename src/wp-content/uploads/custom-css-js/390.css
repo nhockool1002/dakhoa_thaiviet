@@ -63,7 +63,7 @@
   font-size: 34px;
   text-transform: uppercase;
   font-weight: bolder;
-  color: #446ba9;
+  color: #5f98e2;
   position: relative;
   margin-bottom: 20px;
 }
@@ -71,7 +71,7 @@
   content: "";
   width: 150px;
   height: 2px;
-  background-color: #446ba9;
+  background-color: #5f98e2;
   position: absolute;
   bottom: 0;
   left: 105px;
@@ -86,19 +86,19 @@
   border-collapse: separate;
 }
 .table-cacchuyenkhoa td {
-  width: 25%;
+  width: 33.33%;
   height: 100px;
   vertical-align: middle;
   padding: 0;
   padding-top: 20px;
   border-radius: 10px;
-  border: 1px solid #446ba9;
+  border: 1px solid #5f98e2;
 }
 .table-cacchuyenkhoa td a {
   text-decoration: none;
 }
 .table-cacchuyenkhoa td:hover {
-  background-color: #446ba9;
+  background-color: #5f98e2;
 }
 .table-cacchuyenkhoa td:hover .icon-not-hover {
   display: none;
@@ -122,9 +122,9 @@
 }
 .table-cacchuyenkhoa td .name_chuyenkhoa {
   margin-top: 20px;
-  color: #446ba9;
+  color: #5f98e2;
   font-weight: bolder;
-  font-size: 15px;
+  font-size: 18px;
 }
 .doingubacsi {
   width: 100%;
@@ -135,7 +135,7 @@
   font-size: 34px;
   text-transform: uppercase;
   font-weight: bolder;
-  color: #446ba9;
+  color: #5f98e2;
   position: relative;
   margin-bottom: 20px;
 }
@@ -143,7 +143,7 @@
   content: "";
   width: 150px;
   height: 2px;
-  background-color: #446ba9;
+  background-color: #5f98e2;
   position: absolute;
   bottom: 0;
   left: 105px;
@@ -175,7 +175,7 @@
   width: 80px;
 }
 .uudiemphongkham td.content-uudiem .title-uudiem {
-  color: #0960c2;
+	color: #5f98e2;
   font-size: 20px;
   font-weight: bolder;
   text-transform: uppercase;
@@ -190,7 +190,7 @@
   font-size: 34px;
   text-transform: uppercase;
   font-weight: bolder;
-  color: #446ba9;
+  color: #5f98e2;
   position: relative;
   margin-bottom: 20px;
 }
@@ -198,7 +198,7 @@
   content: "";
   width: 150px;
   height: 2px;
-  background-color: #446ba9;
+  background-color: #5f98e2;
   position: absolute;
   bottom: 0;
   left: 115px;
@@ -211,7 +211,7 @@
   font-size: 34px;
   text-transform: uppercase;
   font-weight: bolder;
-  color: #446ba9;
+  color: #5f98e2;
   position: relative;
   margin-bottom: 20px;
 }
@@ -219,7 +219,7 @@
   content: "";
   width: 150px;
   height: 2px;
-  background-color: #446ba9;
+  background-color: #5f98e2;
   position: absolute;
   bottom: 0;
   left: 115px;
@@ -269,7 +269,7 @@
   font-size: 31px;
   text-transform: uppercase;
   font-weight: bolder;
-  color: #446ba9;
+  color: #5f98e2;
   position: relative;
   margin-bottom: 20px;
 }
@@ -277,13 +277,13 @@
   content: "";
   width: 150px;
   height: 2px;
-  background-color: #446ba9;
+  background-color: #5f98e2;
   position: absolute;
   bottom: 0;
   left: 115px;
 }
 .footer-direction {
-  background-color: #3780ae;
+  background-color: #5f97e2;
 }
 .footer-direction table {
   width: 100%;
@@ -349,36 +349,7 @@
   font-weight: bold;
 }
 .footer-direction td.lastboxFd {
-  padding-bottom: 70px;
-}
-.footer-direction td.lastboxFd.lasthome-363 {
-  padding-bottom: 10px;
-}
-.attention-note {
-  width: 100%;
-  text-align: center;
-  color: black;
-  font-weight: 300;
-  padding: 10px;
-  font-size: 16px;
-  margin-top: -50px;
-}
-.attention-note.single-page {
-  margin-top: 0px;
-  display: none;
-}
-.attention-note.single-page.show {
-  display: block;
-}
-.attention-note.attent-363 {
-  margin-top: 0px;
-  color: white;
   padding-bottom: 40px;
-}
-.attention-note.pc-version {
-  margin-top: 0px;
-  color: white;
-  height: 30px;
 }
 .home-mb-container {
   position: relative;
@@ -397,7 +368,7 @@
   border: 0;
 }
 #toTop {
-  bottom: 165px;
+  bottom: 85px;
 }
 .top-control-mb {
   max-width: 100%
@@ -437,15 +408,16 @@
 .top-control-mb .form-search-mb .button-search-mb {
   height: 30px;
   padding: 5px 10px 10px 10px;
-  border-radius: 0px;
+  border-radius: 30px;
   font-size: 11px;
   background-color: #ffffff;
   color: #8a8a8a;
   font-style: italic;
 }
 .top-control-mb .wrap-search-td {
-  height: 35px;
+  height: 50px;
   padding: 0px 20px 0px 20px;
+  border-radius: 20px;
   background-image: linear-gradient(#4d98c9, #59c0e5);
 }
 .baivietlienquan {
@@ -456,7 +428,7 @@
   font-size: 31px;
   text-transform: uppercase;
   font-weight: bolder;
-  color: #446ba9;
+  color: #5f98e2;
   position: relative;
   margin-bottom: 20px;
 }
@@ -464,7 +436,7 @@
   content: "";
   width: 150px;
   height: 2px;
-  background-color: #446ba9;
+  background-color: #5f98e2;
   position: absolute;
   bottom: 0;
   left: 115px;
@@ -479,14 +451,22 @@
 }
 .header-top-wrap td {
   border: 0;
-  vertical-align: middle;
 }
-.header-top-wrap td.logo-mb-wrapper {
-  padding: 0;
-  vertical-align: middle;
+.description-uudiem {
+    text-align: justify;
+    padding-right: 10px;
 }
-.header-top-wrap td .logo-mb {
-  text-align: left;
+i.fa.icon-for-uudiem {
+    font-size: 40px;
+    color: #5f98e2;
+}
+.attention-note.show {
+  display: block;
+}
+.attention-note.attent-363 {
+  display: block;
+  padding-bottom: 40px;
+  color: white;
 }
 @media screen and (min-width: 414px) {
   .header-top-wrap {
@@ -494,18 +474,6 @@
   }
   .footer-box {
     max-width: 414px;
-  }
-}
-@media screen and (min-width: 768px) {
-  .main-navigation ul ul {
-    top: 95%;
-  }
-  .main-navigation li li {
-    background-image: linear-gradient(#4d98c9, #59c0e5);
-  }
-  .main-navigation ul ul a {
-    border-top: 1px solid rgb(48 96 136);
-    color: white;
   }
 }
 @media screen and (min-width: 1024px) {

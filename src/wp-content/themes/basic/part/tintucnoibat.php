@@ -7,6 +7,6 @@
       echo do_shortcode('[post_grid_carousel id="401" class="newSliderForMobile"]'); ?>
   </div>
   <?php
-echo do_shortcode('[smartslider3 slider="13"]');
+// echo do_shortcode('[smartslider3 slider="13"]');
 ?>
 </div>
