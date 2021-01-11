@@ -82,6 +82,12 @@ if ( ! is_single() ) {
 			);
 		} else {
 			the_excerpt();
+		?>
+			<div class="button-zone">
+				<a href='#' class='tuvan-category'>Tư vấn</a>
+				<a href='<?php echo esc_url( get_permalink() ); ?>' class='xemthem-category'>Xem thêm</a>
+			</div>
+		<?php
 		}
 			wp_link_pages(
 				array(
