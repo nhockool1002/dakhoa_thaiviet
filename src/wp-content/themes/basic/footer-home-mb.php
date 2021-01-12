@@ -28,17 +28,17 @@
 				<tr>
 					<td>
 						<a href="tel:<?php echo PHONE; ?>">
-							<img src="/wp-content/uploads/2021/01/phoneft.png" />
+							<img src="/wp-content/uploads/2021/01/Task-8-2.png	" />
 						</a>
 					</td>
 					<td>
 						<a href="<?php echo LIVECHAT; ?>">
-							<img src="/wp-content/uploads/2021/01/dateft.png" />
+							<img src="/wp-content/uploads/2021/01/Task-8-3.png" />
 						</a>
 					</td>
 					<td>
 						<a href="<?php echo LIVECHAT; ?>">
-							<img src="/wp-content/uploads/2021/01/online.png" />
+							<img src="/wp-content/uploads/2021/01/Task-8-1.png" />
 						</a>
 					</td>
 				</tr>
