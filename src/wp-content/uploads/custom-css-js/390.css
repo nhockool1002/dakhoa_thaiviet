@@ -412,7 +412,7 @@
 .top-control-mb .form-search-mb .button-search-mb {
   height: 30px;
   padding: 5px 10px 10px 10px;
-  border-radius: 30px;
+  border-radius: 0px;
   font-size: 11px;
   background-color: #ffffff;
   color: #8a8a8a;
@@ -421,7 +421,7 @@
 .top-control-mb .wrap-search-td {
   height: 50px;
   padding: 0px 20px 0px 20px;
-  border-radius: 20px;
+  border-radius: 0px;
   background-image: linear-gradient(#4d98c9, #59c0e5);
 }
 .baivietlienquan {
