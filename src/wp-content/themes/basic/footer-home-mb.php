@@ -27,17 +27,17 @@
 			<table>
 				<tr>
 					<td>
-						<a href="#">
+						<a href="tel:<?php echo PHONE; ?>">
 							<img src="/wp-content/uploads/2021/01/phoneft.png" />
 						</a>
 					</td>
 					<td>
-						<a href="#">
+						<a href="<?php echo LIVECHAT; ?>">
 							<img src="/wp-content/uploads/2021/01/dateft.png" />
 						</a>
 					</td>
 					<td>
-						<a href="#">
+						<a href="<?php echo LIVECHAT; ?>">
 							<img src="/wp-content/uploads/2021/01/online.png" />
 						</a>
 					</td>

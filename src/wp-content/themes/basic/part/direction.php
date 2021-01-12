@@ -6,7 +6,7 @@
       </td>
       <td class="content-drct">
         <p class="topColItemTitle">Địa Chỉ Khám</p>
-        <div class="detail-drct">Quận 10, TPHCM</div>
+        <p class="topColItemSmallText">165 Nguyễn Văn Cừ, Phường 2, Quận 5, TPHCM</p></div>
       </td>
       <td class="icon-drct">
         <i class="fa fa-volume-control-phone" aria-hidden="true"></i>

@@ -1,6 +1,6 @@
 <div class="inner-wrapper">
   <div class="hotline-menu-mb">
-    <img src="/wp-content/uploads/2021/01/top_icon_mobile.png" /> Hotline: <span class="hotline-mb">028 XXX XXXX</span> Miễn phí tư vấn và gọi cước
+    <img src="/wp-content/uploads/2021/01/top_icon_mobile.png" /> Hotline: <a href="tel:<?php echo PHONE; ?>"><span class="hotline-mb"><?php echo PHONE; ?></span></a> Miễn phí tư vấn và gọi cước
   </div>
   <div class="loiich-menu-mb">
     <img src="/wp-content/uploads/2021/01/8_loi_ich.png" />

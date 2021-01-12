@@ -46,7 +46,7 @@ html {
           <i class="fa fa-volume-control-phone" aria-hidden="true"></i>
         </div>
         <div class="phone-title-ft">Tư vấn miễn phí</div>
-        <div class="phone-headline-ft">028 35356635</div>
+        <div class="phone-headline-ft"><?php echo PHONE; ?></div>
       </td>
       <td>
         <div class="tut-icon">
@@ -59,7 +59,7 @@ html {
         <div class="tut-icon">
           <i class="fa fa-volume-control-phone" aria-hidden="true"></i>
         </div>
-        <div class="head-date-ft">Mở cửa: 8h - 20h</div>
+        <div class="head-date-ft">Mở cửa: <?php echo WORKING_HOUR; ?></div>
         <div class="ct-date-ft">Tất cả các ngày trong tuần, kể cả ngày nghỉ lễ</div>
       </td>
       <td>
@@ -90,10 +90,10 @@ html {
       </td>
       <td>
         <ul>
-          <li><a href="#"><i class="fa fa-facebook-official" aria-hidden="true"></i> Phòng khám Đa Khoa</a></li>
-          <li><a href="#"><i class="fa fa-google-plus-square" aria-hidden="true"></i> Gmail</a></li>
-          <li><a href="#"><i class="fa fa-address-book" aria-hidden="true"></i> Chat ngay Zalo</a></li>
-          <li><a href="#"><i class="fa fa-phone-square" aria-hidden="true"></i> <span class="phone-footer-box">028 XXX XXXX</span></a></li>
+          <li><a href="/"><i class="fa fa-facebook-official" aria-hidden="true"></i> Phòng khám Đa Khoa</a></li>
+          <li><a href="<?php echo FACEBOOK; ?>"><i class="fa fa-google-plus-square" aria-hidden="true"></i> Gmail</a></li>
+          <li><a href="<?php echo FACEBOOK; ?>"><i class="fa fa-facebook" aria-hidden="true"></i> Facebook</a></li>
+          <li><a href="tel:<?php echo PHONE; ?>"><i class="fa fa-phone-square" aria-hidden="true"></i> <span class="phone-footer-box"><?php echo PHONE; ?></span></a></li>
         </ul>
       </td>
       <td>

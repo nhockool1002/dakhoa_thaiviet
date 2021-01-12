@@ -298,6 +298,10 @@
 .footer-direction td.item-fd {
 	width: 50%;
 }
+.footer-direction td.item-fd a {
+  text-decoration: none;
+	color: #3e5f7e;
+}
 .footer-direction td.item-fd .small-icon-fd img {
   width: 30px;
   height: 30px;
@@ -467,6 +471,10 @@ i.fa.icon-for-uudiem {
   display: block;
   padding-bottom: 40px;
   color: white;
+}
+.attention-note.pc-version {
+    text-align: center;
+    color: white;
 }
 @media screen and (min-width: 414px) {
   .header-top-wrap {

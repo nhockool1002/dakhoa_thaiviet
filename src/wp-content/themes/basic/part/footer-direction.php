@@ -19,9 +19,9 @@
           <table>
             <tr>
               <td class="small-icon-fd">
-                <img src="/wp-content/uploads/2021/01/homefd.png" />
+                <a href="/"><img src="/wp-content/uploads/2021/01/homefd.png" /></a>
               </td>
-              <td class="name-fd">Trang chủ</td>
+              <td class="name-fd"><a href="/">Trang chủ</a></td>
             </tr>
           </table>
         </div>
@@ -31,9 +31,9 @@
           <table>
             <tr>
               <td class="small-icon-fd">
-                <img src="/wp-content/uploads/2021/01/introfd.png" />
+                <a href="https://dakhoathaiviet.vn/phong-kham-da-khoa-uy-tin-tai-tphcm/"><img src="/wp-content/uploads/2021/01/introfd.png" /></a>
               </td>
-              <td class="name-fd">Giới thiệu</td>
+              <td class="name-fd"><a href="https://dakhoathaiviet.vn/phong-kham-da-khoa-uy-tin-tai-tphcm/">Giới thiệu</a></td>
             </tr>
           </table>
         </div>
@@ -45,9 +45,9 @@
           <table>
             <tr>
               <td class="small-icon-fd">
-                <img src="/wp-content/uploads/2021/01/docktorfd.png" />
+                <a href="https://dakhoathaiviet.vn/doi-ngu-bac-si-chuyen-khoa-gioi-chuyen-mon-giau-kinh-nghiem/"><img src="/wp-content/uploads/2021/01/docktorfd.png" /></a>
               </td>
-              <td class="name-fd">Đội ngũ bác sĩ</td>
+              <td class="name-fd"><a href="https://dakhoathaiviet.vn/doi-ngu-bac-si-chuyen-khoa-gioi-chuyen-mon-giau-kinh-nghiem/">Đội ngũ bác sĩ</a></td>
             </tr>
           </table>
         </div>
@@ -57,9 +57,9 @@
           <table>
             <tr>
               <td class="small-icon-fd">
-                <img src="/wp-content/uploads/2021/01/plusfd.png" />
+                <a href="https://dakhoathaiviet.vn/co-so-vat-chat-cua-phong-kham-da-khoa-thai-viet/"><img src="/wp-content/uploads/2021/01/plusfd.png" /></a>
               </td>
-              <td class="name-fd">Cơ sở vật chất</td>
+              <td class="name-fd"><a href="https://dakhoathaiviet.vn/co-so-vat-chat-cua-phong-kham-da-khoa-thai-viet/">Cơ sở vật chất</a></td>
             </tr>
           </table>
         </div>
@@ -71,9 +71,9 @@
           <table>
             <tr>
               <td class="small-icon-fd">
-                <img src="/wp-content/uploads/2021/01/vus1fd.png" />
+                <a href="https://dakhoathaiviet.vn/nam-khoa"><img src="/wp-content/uploads/2021/01/vus1fd.png" /></a>
               </td>
-              <td class="name-fd">Bệnh nam khoa</td>
+              <td class="name-fd"><a href="https://dakhoathaiviet.vn/nam-khoa">Bệnh nam khoa</a></td>
             </tr>
           </table>
         </div>
@@ -83,9 +83,9 @@
           <table>
             <tr>
               <td class="small-icon-fd">
-                <img src="/wp-content/uploads/2021/01/vus2fd.png" />
+                <a href="http://dakhoathaiviet.vn/benh-xa-hoi"><img src="/wp-content/uploads/2021/01/vus2fd.png" /></a>
               </td>
-              <td class="name-fd">Bệnh xã hội</td>
+              <td class="name-fd"><a href="http://dakhoathaiviet.vn/benh-xa-hoi">Bệnh xã hội</a></td>
             </tr>
           </table>
         </div>
@@ -100,10 +100,10 @@
           <i class="fa fa-phone" aria-hidden="true"></i> <span class="detail-info"><?php echo PHONE; ?></span>
         </div>
         <div class="info-fd">
-          <i class="fa fa-map-marker" aria-hidden="true"></i> <span class="detail-info">QUẬN 10, TPHCM</span>
+          <i class="fa fa-map-marker" aria-hidden="true"></i> <span class="detail-info"><?php echo ADDRESS; ?></span>
         </div>
         <div class="info-fd">
-          <i class="fa fa-envelope-o" aria-hidden="true"></i> <span class="detail-info">dakhoaxx@gmail.com</span>
+          <i class="fa fa-envelope-o" aria-hidden="true"></i> <span class="detail-info"><?php echo EMAIL; ?></span>
         </div>
       </td>
     </tr>
