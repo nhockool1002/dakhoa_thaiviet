@@ -1,0 +1,21 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.entry-content h1 {
+  font-size: 2em;
+}
+.entry-content h2 {
+  font-size: 1.5em;
+}
+.entry-content h3 {
+  font-size: 1.17em;
+}
+.entry-content h4 {
+  font-size: 1em;
+}
+.entry-content h5 {
+  font-size: .83em;
+}
+.entry-content h6 {
+  font-size: .67em;
+}</style>
+<!-- end Simple Custom CSS and JS -->
