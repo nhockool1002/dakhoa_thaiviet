@@ -13,7 +13,7 @@
   display: none;
 }
 .direction-top-mb {
-  margin-top: 15px;
+  margin-top: 55px;
 }
 .direction-top-mb table {
   width: 90%;
@@ -464,6 +464,10 @@ i.fa.icon-for-uudiem {
     font-size: 40px;
     color: #5f98e2;
 }
+.attention-note.pc-version {
+    text-align: center;
+    color: white;
+}
 .attention-note.show {
   display: block;
 }
@@ -472,9 +476,8 @@ i.fa.icon-for-uudiem {
   padding-bottom: 40px;
   color: white;
 }
-.attention-note.pc-version {
-    text-align: center;
-    color: white;
+.attention-note.notShow {
+  display: none;
 }
 @media screen and (min-width: 414px) {
   .header-top-wrap {
