@@ -44,7 +44,7 @@ h4.widget-title {
     font-size: 22px;
     margin: 0;
     display: inline-block;
-    background-color: #37aea8;
+    background-color: #6e98dc;
     width: 100%;
     padding: 5px;
     color: white;
@@ -56,9 +56,9 @@ h4.widget-title:after {
   text-align: center;
 }
 .logo-mb img {
-  width: 180px;
+  width: 250px;
   margin: 0 auto;
-  margin-bottom: 3px;
+  margin-bottom: 10px;
 }
 .entry-box .entry {
   text-align: justify;

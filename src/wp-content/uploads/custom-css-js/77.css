@@ -60,7 +60,7 @@
   font-size: 20px;
 }
 .special-content p.special-text-p-tag {
-  color: #3390b9;
+  color: #6c97dc;
   font-size: 18px;
   font-weight: bolder;
   margin-bottom: 0em;
@@ -68,8 +68,7 @@
   margin-block-end: 0em;
 }
 .serviceTitle h2 {
-/*   	font-family: 'Bree Serif' !important; */
-    color: #3390b9 !important;
+    color: #6c97dc !important;
     font-size: 337.5%;
     text-shadow: none;
     line-height: 1.5;
@@ -121,7 +120,7 @@
   display: none;
 }
 .service-list .titleSeriveItem {
-  color: #3390B9;
+  color: #6c97dc;
   font-weight: bolder;
   font-size: 16px;
   margin-bottom: 0em;
@@ -146,7 +145,7 @@
   font-size: 35px;
   text-decoration: underline;
   text-decoration-color: #C0C0C0;
-/*   font-family: 'Bree Serif' !important; */
+  font-family: 'Bree Serif' !important;
 }
 .feedBackWrapper {
   padding-top: 30px;
@@ -217,5 +216,20 @@
 }
 .elementor-40 .elementor-element.elementor-element-292ff2d:not(.elementor-motion-effects-element-type-background), .elementor-40 .elementor-element.elementor-element-292ff2d > .elementor-motion-effects-container > .elementor-motion-effects-layer {
   background-image: url('wp-content/uploads/2020/12/blurImgae.jpg');
+}
+.wb_ps_content a {
+  color: #6c97dc;
+}
+.wb_ps_content .wb_ps_readmore_link {
+  background-color: #6c97dc;
+  border: 2px solid #6c97dc;
+}
+.wb_ps_content .wb_ps_readmore_link:hover {
+  color: #6c97dc;
+  border: 2px solid #6c97dc;
+}
+.wbel-arrow {
+  background-color: #6c97dc;
+  border: 4px solid #6c97dc;
 }</style>
 <!-- end Simple Custom CSS and JS -->

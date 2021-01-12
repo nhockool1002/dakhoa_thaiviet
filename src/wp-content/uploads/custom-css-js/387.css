@@ -15,7 +15,7 @@ table.widget-slider-bacsi {
   border-spacing: 0px;
 }
 td.title-slider-bacsi {
-  background-color: #37aea8;
+  background-color: #6e98dc;
   color: white;
   font-size: 18px;
   font-weight: bolder;
@@ -31,6 +31,6 @@ td.title-slider-bacsi p {
   margin-block-end: 0;
 }
 td.slider-content-bacsi {
-  border: 1px solid #37aea8;
+  border: 1px solid #6e98dc;
 }</style>
 <!-- end Simple Custom CSS and JS -->
