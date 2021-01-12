@@ -4,7 +4,7 @@ html {
   margin-top: 0 !important;
 }
 .tutorials-box {
-  background-color: #376CAE;
+  background-color: #6c97dc;
 }
 .tutorials-box table {
   border-spacing: 0;
@@ -20,7 +20,7 @@ html {
   text-align: center;
 }
 .footer-wrapper {
-   background-color: #376CAE;
+   background-color: #6c97dc;
 }
 .footer-wrapper {
   position: absolute;
