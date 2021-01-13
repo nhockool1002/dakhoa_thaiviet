@@ -1,6 +1,6 @@
 <div class="doingubacsi">
   <div class="title_doingubacsi">
-    Đội ngũ bác sĩ
+    PHÒNG KHÁM ĐA KHOA THÁI VIỆT
   </div>
   <div class="doingubacsi_section">
     <?php

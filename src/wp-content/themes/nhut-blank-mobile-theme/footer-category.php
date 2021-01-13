@@ -90,26 +90,26 @@ html {
       </td>
       <td>
         <ul>
-          <li><a href="/"><i class="fa fa-facebook-official" aria-hidden="true"></i> Phòng khám Đa Khoa</a></li>
-          <li><a href="<?php echo FACEBOOK; ?>"><i class="fa fa-google-plus-square" aria-hidden="true"></i> Gmail</a></li>
+          <li><a href="/"><i class="fa fa-facebook-official" aria-hidden="true"></i> Phòng khám Thái Việt</a></li>
+          <li><a href="mailto:<?php echo EMAIL; ?>"><i class="fa fa-google-plus-square" aria-hidden="true"></i> <?php echo EMAIL; ?></a></li>
           <li><a href="<?php echo FACEBOOK; ?>"><i class="fa fa-facebook" aria-hidden="true"></i> Facebook</a></li>
           <li><a href="tel:<?php echo PHONE; ?>"><i class="fa fa-phone-square" aria-hidden="true"></i> <span class="phone-footer-box"><?php echo PHONE; ?></span></a></li>
         </ul>
       </td>
       <td>
         <ul>
-          <li><a href="https://dakhoathaiviet.vn/nam-khoa/benh-bao-quy-dau"> >> Bệnh lý bao quy đầu</a></li>
-          <li><a href="https://dakhoathaiviet.vn/nam-khoa/roi-loan-chuc-nang-sinh-ly"> >> Bệnh sinh lý nam</a></li>
-          <li><a href="https://dakhoathaiviet.vn/nam-khoa/viem-duong-tiet-nieu"> >> Bệnh đường tiết niệu</a></li>
-          <li><a href="https://dakhoathaiviet.vn/nam-khoa/benh-ly-tinh-hoan"> >> Bệnh lý tinh hoàn</a></li>
+          <li><a href="http://dakhoathaiviet.vn/nam-khoa"> >> Bệnh Nam Khoa</a></li>
+          <li><a href="http://dakhoathaiviet.vn/phu-khoa"> >> Bệnh Phụ Khoa</a></li>
+          <li><a href="http://dakhoathaiviet.vn/benh-xa-hoi"> >> Bệnh Xã Hội</a></li>
+          <li><a href="http://dakhoathaiviet.vn/ke-hoach-hoa-gia-dinh"> >> Kế hoạch hoá gia đình</a></li>
         </ul>
       </td>
       <td>
         <ul>
-          <li><a href="https://dakhoathaiviet.vn/phu-khoa/viem-phu-khoa"> >> Bệnh viêm phụ khoa</a></li>
-          <li><a href="https://dakhoathaiviet.vn/phu-khoa/chinh-hinh-phu-khoa"> >> Thẩm mỹ vùng kín</a></li>
-          <li><a href="http://dakhoathaiviet.vn/benh-xa-hoi"> >> Bệnh xã hội</a></li>
-          <li><a href="http://dakhoathaiviet.vn/ke-hoach-hoa-gia-dinh"> >> Đình chỉ thai</a></li>
+          <li><a href="https://tuvan.dakhoathaiviet.vn/livechat"> >> Đặt lịch online</a></li>
+          <li><a href="https://tuvan.dakhoathaiviet.vn/livechat"> >> Tư vấn miễn phí 24/24</a></li>
+          <li><a href="https://tuvan.dakhoathaiviet.vn/livechat"> >> Hỗ trợ dịch vụ khám nhanh</a></li>
+          <li><a href="https://tuvan.dakhoathaiviet.vn/livechat"> >> Bảo mật 100% thông tin</a></li>
         </ul>
       </td>
     </tr>
