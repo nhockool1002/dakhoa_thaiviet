@@ -90,7 +90,7 @@ html {
       </td>
       <td>
         <ul>
-          <li><a href="/"><i class="fa fa-facebook-official" aria-hidden="true"></i> Phòng khám Thái Việt</a></li>
+          <li><a href="/"><i class="fa fa-share" aria-hidden="true"></i> Phòng khám Thái Việt</a></li>
           <li><a href="mailto:<?php echo EMAIL; ?>"><i class="fa fa-google-plus-square" aria-hidden="true"></i> <?php echo EMAIL; ?></a></li>
           <li><a href="<?php echo FACEBOOK; ?>"><i class="fa fa-facebook" aria-hidden="true"></i> Facebook</a></li>
           <li><a href="tel:<?php echo PHONE; ?>"><i class="fa fa-phone-square" aria-hidden="true"></i> <span class="phone-footer-box"><?php echo PHONE; ?></span></a></li>
