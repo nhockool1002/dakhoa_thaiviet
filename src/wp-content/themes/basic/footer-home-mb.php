@@ -28,17 +28,17 @@
 				<tr>
 					<td>
 						<a href="tel:<?php echo PHONE; ?>">
-							<img src="/wp-content/uploads/2021/01/Task-8-2.png	" />
+							<img src="/wp-content/uploads/2021/01/dien-thoai.gif	" />
 						</a>
 					</td>
 					<td>
 						<a href="<?php echo LIVECHAT; ?>">
-							<img src="/wp-content/uploads/2021/01/Task-8-3.png" />
+							<img src="/wp-content/uploads/2021/01/dat-hen-kham.png" />
 						</a>
 					</td>
 					<td>
 						<a href="<?php echo LIVECHAT; ?>">
-							<img src="/wp-content/uploads/2021/01/Task-8-1.png" />
+							<img src="/wp-content/uploads/2021/01/tu-van-online.png" />
 						</a>
 					</td>
 				</tr>
