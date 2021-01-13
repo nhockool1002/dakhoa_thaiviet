@@ -2,7 +2,7 @@
   <table>
     <tr>
       <td class="image-uudiem">
-        <img src="/wp-content/uploads/2020/12/icon-1.png" />
+        <img src="/wp-content/uploads/2021/01/Trang-thiet-bi-hien-dai.png" />
       </td>
       <td class="content-uudiem">
         <div class="title-uudiem">
@@ -17,7 +17,7 @@
   <table>
     <tr>
       <td class="image-uudiem">
-        <img src="/wp-content/uploads/2020/12/icon-2-hover.png" />
+        <img src="/wp-content/uploads/2021/01/Kham-chua-nhanh-chong.png" />
       </td>
       <td class="content-uudiem">
         <div class="title-uudiem">
@@ -32,7 +32,7 @@
   <table>
     <tr>
       <td class="image-uudiem">
-        <img src="/wp-content/uploads/2020/12/icon-3-hover.png" />
+        <img src="/wp-content/uploads/2021/01/Chi-phi-minh-bach.png" />
       </td>
       <td class="content-uudiem">
         <div class="title-uudiem">
@@ -47,7 +47,7 @@
   <table>
     <tr>
         <td class="image-uudiem">
-          <img src="/wp-content/uploads/2020/12/icon-4-hover.png" />
+          <img src="/wp-content/uploads/2021/01/Bao-mat-thong-tin.png" />
         </td>
         <td class="content-uudiem">
           <div class="title-uudiem">
@@ -62,7 +62,7 @@
   <table>
     <tr>
         <td class="image-uudiem">
-          <i class="fa fa-ambulance icon-for-uudiem" aria-hidden="true"></i>
+          <img src="/wp-content/uploads/2021/01/Tan-tinh-chu-dao.png" />
         </td>
         <td class="content-uudiem">
           <div class="title-uudiem">
@@ -77,7 +77,7 @@
   <table>
     <tr>
         <td class="image-uudiem">
-          <i class="fa fa-plus-square icon-for-uudiem" aria-hidden="true"></i>
+          <img src="/wp-content/uploads/2021/01/Giai-dap-moi-luc-moi-noi.png" />
         </td>
         <td class="content-uudiem">
           <div class="title-uudiem">
