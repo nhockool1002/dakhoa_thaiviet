@@ -44,6 +44,7 @@
 				</tr>
 			</table>
 	</div>
+	<?php require_once('part/map.php'); ?>
 	<?php do_action( 'basic_after_footer_copyrights' ); ?>
 
 </footer>
