@@ -56,7 +56,7 @@ h4.widget-title:after {
   text-align: center;
 }
 .logo-mb img {
-  width: 170px;
+  width: 100%;
   margin: 0 auto;
   margin-bottom: 10px;
 }

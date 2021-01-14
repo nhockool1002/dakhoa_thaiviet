@@ -60,10 +60,10 @@
   text-align: center;
 }
 .cacchuyenkhoa .title_cacchuyenkhoa {
-  font-size: 34px;
+  font-size: 24px;
   text-transform: uppercase;
   font-weight: bolder;
-  color: #5f98e2;
+  color: #333366;
   position: relative;
   margin-bottom: 20px;
 }
@@ -71,10 +71,10 @@
   content: "";
   width: 150px;
   height: 2px;
-  background-color: #5f98e2;
+  background-color: #333366;
   position: absolute;
   bottom: 0;
-  left: 105px;
+  left: 32%;
 }
 .table-cacchuyenkhoa {
   width: 100%;
@@ -132,21 +132,20 @@
   margin-top: 30px;
 }
 .doingubacsi .title_doingubacsi {
-  font-size: 26px;
+  font-size: 24px;
   text-transform: uppercase;
   font-weight: bolder;
-  color: #5f98e2;
+  color: #333366;
   position: relative;
-  margin-bottom: 20px;
 }
 .doingubacsi .title_doingubacsi:after {
   content: "";
   width: 150px;
   height: 2px;
-  background-color: #5f98e2;
+  background-color: #333366;
   position: absolute;
   bottom: 0;
-  left: 140px;
+  left: 30%;
 }
 .uudiemphongkham {
   width: 100%;
@@ -176,7 +175,7 @@
 }
 .uudiemphongkham td.content-uudiem .title-uudiem {
 	color: #5f98e2;
-  font-size: 20px;
+  font-size: 16px;
   font-weight: bolder;
   text-transform: uppercase;
   padding-top: 10px;
@@ -187,10 +186,10 @@
   text-align: center;
 }
 .cacdichvu .title_cacdichvu {
-  font-size: 34px;
+  font-size: 24px;
   text-transform: uppercase;
   font-weight: bolder;
-  color: #5f98e2;
+  color: #333366;
   position: relative;
   margin-bottom: 20px;
 }
@@ -198,20 +197,20 @@
   content: "";
   width: 150px;
   height: 2px;
-  background-color: #5f98e2;
+  background-color: #333366;
   position: absolute;
   bottom: 0;
-  left: 115px;
+  left: 32%;
 }
 .tintucnoibat {
   width: 100%;
   text-align: center;
 }
 .tintucnoibat .title_tintucnoibat {
-  font-size: 34px;
+  font-size: 24px;
   text-transform: uppercase;
   font-weight: bolder;
-  color: #5f98e2;
+  color: #333366;
   position: relative;
   margin-bottom: 20px;
 }
@@ -219,10 +218,10 @@
   content: "";
   width: 150px;
   height: 2px;
-  background-color: #5f98e2;
+  background-color: #333366;
   position: absolute;
   bottom: 0;
-  left: 115px;
+  left: 32%;
 }
 .form-dangki-3 {
   padding-top: 30px;
@@ -255,7 +254,7 @@
   padding-top: 20px;
 }
 .feedback-khachhang .title_feedback {
-  font-size: 28px;
+  font-size: 22px;
   text-decoration: underline;
   font-style: italic;
   color: white;
@@ -266,10 +265,10 @@
   text-align: center;
 }
 .moitruongphongkham .title_moitruongphongkham {
-  font-size: 31px;
+  font-size: 24px;
   text-transform: uppercase;
   font-weight: bolder;
-  color: #5f98e2;
+  color: #333366;
   position: relative;
   margin-bottom: 20px;
 }
@@ -280,7 +279,7 @@
   background-color: #5f98e2;
   position: absolute;
   bottom: 0;
-  left: 115px;
+  left: 30%;
 }
 .footer-direction {
   background-color: #5f97e2;
@@ -455,10 +454,12 @@
 }
 .header-top-wrap td {
   border: 0;
+  padding: 0;
 }
 .description-uudiem {
     text-align: justify;
     padding-right: 10px;
+  	font-size: 13px;
 }
 i.fa.icon-for-uudiem {
     font-size: 40px;
@@ -478,6 +479,19 @@ i.fa.icon-for-uudiem {
 }
 .attention-note.notShow {
   display: none;
+}
+#pgcu_style4 .pgcu_post .post_title h4 {
+  font-size: 15px !important;
+  color: #86b0e7 !important;
+  font-weight: 700 !important;
+}
+#pgcu_style4 p {
+  font-size: 13px !important;
+  line-height: 18px !important;
+}
+#pgcu_style4 .pgcu_post.pgcu_post--style2 .pgcu_post__contents .post_info ul li:first-child {
+    font-weight: bold;
+    color: #525252;
 }
 @media screen and (min-width: 414px) {
   .header-top-wrap {
