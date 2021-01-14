@@ -30,21 +30,21 @@
 					<div class="header-top-wrap">
 						<table>
 							<tr>
-								<td class="icon-menu-mb" style="width: 15%;">
+								<td class="icon-menu-mb" style="width: 20%;padding: 5px 20px;">
 									<div class="open-button" onclick="openMenu()">
 										<img src="/wp-content/uploads/2021/01/humbutton.png" />
 									</div>
 								</td>
-								<td class="logo-mb-wrapper" style="width: 53%;">
+								<td class="logo-mb-wrapper">
 									<div class="logo-mb">
-										<a href='/'><img src="/wp-content/uploads/2021/01/logo5-scaled.jpg" /></a>
+										<a href='/'><img src="/wp-content/uploads/2021/01/logo-new.png" /></a>
 									</div>
 								</td>
-								<td style="width: 32%;">
+								<!-- <td style="width: 32%;">
 									<a href="<?php echo LIVECHAT; ?>">
 										<img src="/wp-content/uploads/2021/01/Task-14b.gif" />
 									</a>
-								</td>
+								</td> -->
 							</tr>
 						</table>
 					<div class="top-control-mb">
