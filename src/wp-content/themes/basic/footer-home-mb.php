@@ -26,19 +26,19 @@
 	<div class="footer-box">
 			<table>
 				<tr>
-					<td>
+					<td style="width:30%;">
 						<a href="<?php echo LIVECHAT; ?>">
-							<img src="/wp-content/uploads/2021/01/dat-hen-kham.png" />
+							<img src="/wp-content/uploads/2021/01/dat-hen-kham.png" style="width: 100%;" />
 						</a>
 					</td>
-					<td>
+					<td style="width:30%;">
 						<a href="tel:<?php echo PHONE; ?>">
-							<img src="/wp-content/uploads/2021/01/dien-thoai.gif	" />
+							<img src="/wp-content/uploads/2021/01/dien-thoai.gif" style="width: 100%;" />
 						</a>
 					</td>
-					<td>
+					<td style="width:30%;">
 						<a href="<?php echo LIVECHAT; ?>">
-							<img src="/wp-content/uploads/2021/01/tu-van-online.png" />
+							<img src="/wp-content/uploads/2021/01/tu-van-online.png" style="width: 100%;" />
 						</a>
 					</td>
 				</tr>
