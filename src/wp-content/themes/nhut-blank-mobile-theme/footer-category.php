@@ -106,10 +106,10 @@ html {
       </td>
       <td>
         <ul>
-          <li><a href="https://tuvan.dakhoathaiviet.vn/livechat"> >> Đặt lịch online</a></li>
-          <li><a href="https://tuvan.dakhoathaiviet.vn/livechat"> >> Tư vấn miễn phí 24/24</a></li>
-          <li><a href="https://tuvan.dakhoathaiviet.vn/livechat"> >> Hỗ trợ dịch vụ khám nhanh</a></li>
-          <li><a href="https://tuvan.dakhoathaiviet.vn/livechat"> >> Bảo mật 100% thông tin</a></li>
+          <li><a href="<?php echo LIVECHAT; ?>"> >> Đặt lịch online</a></li>
+          <li><a href="<?php echo LIVECHAT; ?>"> >> Tư vấn miễn phí 24/24</a></li>
+          <li><a href="<?php echo LIVECHAT; ?>"> >> Hỗ trợ dịch vụ khám nhanh</a></li>
+          <li><a href="<?php echo LIVECHAT; ?>"> >> Bảo mật 100% thông tin</a></li>
         </ul>
       </td>
     </tr>

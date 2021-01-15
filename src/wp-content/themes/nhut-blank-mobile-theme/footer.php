@@ -13,7 +13,7 @@
 	</div><!-- .wrap -->
 	</div><!-- #content -->
 
-	<footer id="colophon" class="site-footer">
+	<footer id="colophon" class="site-footer" style="display: none;">
 		<div class="wrap">
 			<div class="site-info">
 				<div class="left">
