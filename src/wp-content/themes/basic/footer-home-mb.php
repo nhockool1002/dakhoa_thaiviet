@@ -26,24 +26,25 @@
 	<div class="footer-box">
 			<table>
 				<tr>
-					<td>
-						<a href="#">
-							<img src="/wp-content/uploads/2021/01/phoneft.png" />
+					<td style="width:30%;">
+						<a href="<?php echo LIVECHAT; ?>">
+							<img src="/wp-content/uploads/2021/01/dat-hen-kham.png" style="width: 100%;" />
 						</a>
 					</td>
-					<td>
-						<a href="#">
-							<img src="/wp-content/uploads/2021/01/dateft.png" />
+					<td style="width:30%;">
+						<a href="tel:<?php echo PHONE; ?>">
+							<img src="/wp-content/uploads/2021/01/dien-thoai.gif" style="width: 100%;" />
 						</a>
 					</td>
-					<td>
-						<a href="#">
-							<img src="/wp-content/uploads/2021/01/online.png" />
+					<td style="width:30%;">
+						<a href="<?php echo LIVECHAT; ?>">
+							<img src="/wp-content/uploads/2021/01/tu-van-online.png" style="width: 100%;" />
 						</a>
 					</td>
 				</tr>
 			</table>
 	</div>
+	<?php require_once('part/map.php'); ?>
 	<?php do_action( 'basic_after_footer_copyrights' ); ?>
 
 </footer>

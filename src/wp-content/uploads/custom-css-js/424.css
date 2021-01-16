@@ -80,6 +80,9 @@
   color: red;
   font-weight: bold;
 }
+.hotline-menu-mb a {
+  text-decoration: none;
+}
 .menu-mb-wrap .inner-wrapper {
   position: relative;
   width: 375px;

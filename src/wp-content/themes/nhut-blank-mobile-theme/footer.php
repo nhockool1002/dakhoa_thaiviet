@@ -13,7 +13,7 @@
 	</div><!-- .wrap -->
 	</div><!-- #content -->
 
-	<footer id="colophon" class="site-footer">
+	<footer id="colophon" class="site-footer" style="display: none;">
 		<div class="wrap">
 			<div class="site-info">
 				<div class="left">
@@ -41,5 +41,5 @@
 </div><!-- #page -->
 
 <?php wp_footer(); ?>
-
+<script language="javascript" src="https://tuvan.dakhoathaiviet.vn/JS/LsJS.aspx?siteid=NIE56551246&float=1&lng=en"></script>
 </body>

@@ -37,6 +37,7 @@
 .special-in-tv {
   border:  1px solid #909090;
   border-radius: 10px;
+  height: 235px;
 } 
 
 .special-in-tv:hover {
@@ -60,7 +61,7 @@
   font-size: 20px;
 }
 .special-content p.special-text-p-tag {
-  color: #3390b9;
+  color: #6c97dc;
   font-size: 18px;
   font-weight: bolder;
   margin-bottom: 0em;
@@ -68,9 +69,8 @@
   margin-block-end: 0em;
 }
 .serviceTitle h2 {
-/*   	font-family: 'Bree Serif' !important; */
-    color: #3390b9 !important;
-    font-size: 337.5%;
+    color: #333366 !important;
+    font-size: 250.5%;
     text-shadow: none;
     line-height: 1.5;
     font-weight: normal;
@@ -121,7 +121,7 @@
   display: none;
 }
 .service-list .titleSeriveItem {
-  color: #3390B9;
+  color: #6c97dc;
   font-weight: bolder;
   font-size: 16px;
   margin-bottom: 0em;
@@ -146,7 +146,7 @@
   font-size: 35px;
   text-decoration: underline;
   text-decoration-color: #C0C0C0;
-/*   font-family: 'Bree Serif' !important; */
+  font-family: 'Bree Serif' !important;
 }
 .feedBackWrapper {
   padding-top: 30px;
@@ -197,7 +197,7 @@
 .footer-wrapper ul li {
   margin: 0;
   border-bottom: 1px solid #d0d0d0;
-  width: 180px;
+  width: 200px;
   margin-bottom: 20px;
 }
 .footer-wrapper ul li a {
@@ -217,5 +217,37 @@
 }
 .elementor-40 .elementor-element.elementor-element-292ff2d:not(.elementor-motion-effects-element-type-background), .elementor-40 .elementor-element.elementor-element-292ff2d > .elementor-motion-effects-container > .elementor-motion-effects-layer {
   background-image: url('wp-content/uploads/2020/12/blurImgae.jpg');
+}
+.wb_ps_content a {
+  color: #6c97dc;
+  font-size: 25px;
+}
+.wb_ps_content .wb_ps_readmore_link {
+  background-color: #6c97dc;
+  border: 2px solid #6c97dc;
+}
+.wb_ps_content .wb_ps_readmore_link:hover {
+  color: #6c97dc;
+  border: 2px solid #6c97dc;
+}
+.wbel-arrow {
+  background-color: #6c97dc;
+  border: 4px solid #6c97dc;
+}
+.line2Data {
+    margin-top: -20px;
+}
+.wb_ps_content {
+    height: 395px;
+}
+.wb_ps_thumbnail img {
+  width: 100%;
+  height: 180px;
+}
+.wb_ps_title h2 {
+  height: 80px;
+}
+.wb_ps_content p {
+  height: 120px;
 }</style>
 <!-- end Simple Custom CSS and JS -->

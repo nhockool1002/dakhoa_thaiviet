@@ -8,10 +8,10 @@
         <td>
           <a href='/category/nam-khoa'>
             <div class="icon-hover">
-              <img src="../wp-content/uploads/2020/12/icon-ngoai-khoa.png" />
+              <img src="/wp-content/uploads/2021/01/Task-6-man-2.png" />
             </div>
             <div class="icon-not-hover">
-              <img src="../wp-content/uploads/2020/12/icon-ngoai-khoa-cl.png" />
+              <img src="/wp-content/uploads/2021/01/Task-6-man-1.png" />
             </div>
             <div class="name_chuyenkhoa">
               NAM KHOA
@@ -21,10 +21,10 @@
         <td>
           <a href='/category/phu-khoa'>
             <div class="icon-hover">
-              <img src="../wp-content/uploads/2020/12/icon-phu-khoa.png" />
+              <img src="/wp-content/uploads/2021/01/Task-6-woman-1.png" />
             </div>
             <div class="icon-not-hover">
-              <img src="../wp-content/uploads/2020/12/icon-phu-khoa-cl.png" />
+              <img src="/wp-content/uploads/2021/01/Task-6-woman-2.png" />
             </div>
             <div class="name_chuyenkhoa">
               PHỤ KHOA
@@ -36,10 +36,10 @@
       <td>
         <a href='/category/benh-xa-hoi'>
           <div class="icon-hover">
-            <img src="../wp-content/uploads/2020/12/icon-BXH-hover.png" />
+            <img src="/wp-content/uploads/2021/01/Task-6-Bacteria-1.png" />
           </div>
           <div class="icon-not-hover">
-            <img src="../wp-content/uploads/2020/12/icon-BXH.png" />
+            <img src="/wp-content/uploads/2021/01/Task-6-Bacteria-2.png" />
           </div>
           <div class="name_chuyenkhoa">
             BỆNH XÃ HỘI
@@ -49,12 +49,12 @@
       <td>
         <a href="/category/ke-hoach-hoa-gia-dinh">
         <div class="icon-hover">
-          <img src="/wp-content/uploads/2021/01/icon-ke-hoach-hoa-gia-dinh-02.png" />
+          <img src="/wp-content/uploads/2021/01/Task-6-Pregnancy-1.png" />
         </div>
         <div class="icon-not-hover">
-          <img src="/wp-content/uploads/2021/01/icon-ke-hoach-hoa-gia-dinh-01.png" />
+          <img src="/wp-content/uploads/2021/01/Task-6-Pregnancy-2.png" />
         </div>
-        <div class="name_chuyenkhoa">
+        <div class="name_chuyenkhoa" style="font-size: 15px;">
           KẾ HOẠCH HOÁ GIA ĐÌNH
         </div>
         </a>

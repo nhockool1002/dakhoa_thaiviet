@@ -13,7 +13,7 @@
   display: none;
 }
 .direction-top-mb {
-  margin-top: 15px;
+  margin-top: 55px;
 }
 .direction-top-mb table {
   width: 90%;
@@ -60,10 +60,10 @@
   text-align: center;
 }
 .cacchuyenkhoa .title_cacchuyenkhoa {
-  font-size: 34px;
+  font-size: 24px;
   text-transform: uppercase;
   font-weight: bolder;
-  color: #446ba9;
+  color: #333366;
   position: relative;
   margin-bottom: 20px;
 }
@@ -71,10 +71,10 @@
   content: "";
   width: 150px;
   height: 2px;
-  background-color: #446ba9;
+  background-color: #333366;
   position: absolute;
   bottom: 0;
-  left: 105px;
+  left: 32%;
 }
 .table-cacchuyenkhoa {
   width: 100%;
@@ -86,19 +86,19 @@
   border-collapse: separate;
 }
 .table-cacchuyenkhoa td {
-  width: 25%;
+  width: 33.33%;
   height: 100px;
   vertical-align: middle;
   padding: 0;
   padding-top: 20px;
   border-radius: 10px;
-  border: 1px solid #446ba9;
+  border: 1px solid #5f98e2;
 }
 .table-cacchuyenkhoa td a {
   text-decoration: none;
 }
 .table-cacchuyenkhoa td:hover {
-  background-color: #446ba9;
+  background-color: #5f98e2;
 }
 .table-cacchuyenkhoa td:hover .icon-not-hover {
   display: none;
@@ -122,9 +122,9 @@
 }
 .table-cacchuyenkhoa td .name_chuyenkhoa {
   margin-top: 20px;
-  color: #446ba9;
+  color: #5f98e2;
   font-weight: bolder;
-  font-size: 15px;
+  font-size: 18px;
 }
 .doingubacsi {
   width: 100%;
@@ -132,21 +132,20 @@
   margin-top: 30px;
 }
 .doingubacsi .title_doingubacsi {
-  font-size: 34px;
+  font-size: 24px;
   text-transform: uppercase;
   font-weight: bolder;
-  color: #446ba9;
+  color: #333366;
   position: relative;
-  margin-bottom: 20px;
 }
 .doingubacsi .title_doingubacsi:after {
   content: "";
   width: 150px;
   height: 2px;
-  background-color: #446ba9;
+  background-color: #333366;
   position: absolute;
   bottom: 0;
-  left: 105px;
+  left: 30%;
 }
 .uudiemphongkham {
   width: 100%;
@@ -175,8 +174,8 @@
   width: 80px;
 }
 .uudiemphongkham td.content-uudiem .title-uudiem {
-  color: #0960c2;
-  font-size: 20px;
+	color: #5f98e2;
+  font-size: 16px;
   font-weight: bolder;
   text-transform: uppercase;
   padding-top: 10px;
@@ -187,10 +186,10 @@
   text-align: center;
 }
 .cacdichvu .title_cacdichvu {
-  font-size: 34px;
+  font-size: 24px;
   text-transform: uppercase;
   font-weight: bolder;
-  color: #446ba9;
+  color: #333366;
   position: relative;
   margin-bottom: 20px;
 }
@@ -198,20 +197,20 @@
   content: "";
   width: 150px;
   height: 2px;
-  background-color: #446ba9;
+  background-color: #333366;
   position: absolute;
   bottom: 0;
-  left: 115px;
+  left: 32%;
 }
 .tintucnoibat {
   width: 100%;
   text-align: center;
 }
 .tintucnoibat .title_tintucnoibat {
-  font-size: 34px;
+  font-size: 24px;
   text-transform: uppercase;
   font-weight: bolder;
-  color: #446ba9;
+  color: #333366;
   position: relative;
   margin-bottom: 20px;
 }
@@ -219,10 +218,10 @@
   content: "";
   width: 150px;
   height: 2px;
-  background-color: #446ba9;
+  background-color: #333366;
   position: absolute;
   bottom: 0;
-  left: 115px;
+  left: 32%;
 }
 .form-dangki-3 {
   padding-top: 30px;
@@ -255,7 +254,7 @@
   padding-top: 20px;
 }
 .feedback-khachhang .title_feedback {
-  font-size: 28px;
+  font-size: 22px;
   text-decoration: underline;
   font-style: italic;
   color: white;
@@ -266,10 +265,10 @@
   text-align: center;
 }
 .moitruongphongkham .title_moitruongphongkham {
-  font-size: 31px;
+  font-size: 24px;
   text-transform: uppercase;
   font-weight: bolder;
-  color: #446ba9;
+  color: #333366;
   position: relative;
   margin-bottom: 20px;
 }
@@ -277,13 +276,13 @@
   content: "";
   width: 150px;
   height: 2px;
-  background-color: #446ba9;
+  background-color: #5f98e2;
   position: absolute;
   bottom: 0;
-  left: 115px;
+  left: 30%;
 }
 .footer-direction {
-  background-color: #3780ae;
+  background-color: #5f97e2;
 }
 .footer-direction table {
   width: 100%;
@@ -297,6 +296,10 @@
 }
 .footer-direction td.item-fd {
 	width: 50%;
+}
+.footer-direction td.item-fd a {
+  text-decoration: none;
+	color: #3e5f7e;
 }
 .footer-direction td.item-fd .small-icon-fd img {
   width: 30px;
@@ -349,36 +352,7 @@
   font-weight: bold;
 }
 .footer-direction td.lastboxFd {
-  padding-bottom: 70px;
-}
-.footer-direction td.lastboxFd.lasthome-363 {
-  padding-bottom: 10px;
-}
-.attention-note {
-  width: 100%;
-  text-align: center;
-  color: black;
-  font-weight: 300;
-  padding: 10px;
-  font-size: 16px;
-  margin-top: -50px;
-}
-.attention-note.single-page {
-  margin-top: 0px;
-  display: none;
-}
-.attention-note.single-page.show {
-  display: block;
-}
-.attention-note.attent-363 {
-  margin-top: 0px;
-  color: white;
   padding-bottom: 40px;
-}
-.attention-note.pc-version {
-  margin-top: 0px;
-  color: white;
-  height: 30px;
 }
 .home-mb-container {
   position: relative;
@@ -397,7 +371,7 @@
   border: 0;
 }
 #toTop {
-  bottom: 165px;
+  bottom: 85px;
 }
 .top-control-mb {
   max-width: 100%
@@ -444,8 +418,9 @@
   font-style: italic;
 }
 .top-control-mb .wrap-search-td {
-  height: 35px;
+  height: 50px;
   padding: 0px 20px 0px 20px;
+  border-radius: 0px;
   background-image: linear-gradient(#4d98c9, #59c0e5);
 }
 .baivietlienquan {
@@ -456,7 +431,7 @@
   font-size: 31px;
   text-transform: uppercase;
   font-weight: bolder;
-  color: #446ba9;
+  color: #5f98e2;
   position: relative;
   margin-bottom: 20px;
 }
@@ -464,7 +439,7 @@
   content: "";
   width: 150px;
   height: 2px;
-  background-color: #446ba9;
+  background-color: #5f98e2;
   position: absolute;
   bottom: 0;
   left: 115px;
@@ -479,14 +454,44 @@
 }
 .header-top-wrap td {
   border: 0;
-  vertical-align: middle;
-}
-.header-top-wrap td.logo-mb-wrapper {
   padding: 0;
-  vertical-align: middle;
 }
-.header-top-wrap td .logo-mb {
-  text-align: left;
+.description-uudiem {
+    text-align: justify;
+    padding-right: 10px;
+  	font-size: 13px;
+}
+i.fa.icon-for-uudiem {
+    font-size: 40px;
+    color: #5f98e2;
+}
+.attention-note.pc-version {
+    text-align: center;
+    color: white;
+}
+.attention-note.show {
+  display: block;
+}
+.attention-note.attent-363 {
+  display: block;
+  padding-bottom: 40px;
+  color: white;
+}
+.attention-note.notShow {
+  display: none;
+}
+#pgcu_style4 .pgcu_post .post_title h4 {
+  font-size: 15px !important;
+  color: #86b0e7 !important;
+  font-weight: 700 !important;
+}
+#pgcu_style4 p {
+  font-size: 13px !important;
+  line-height: 18px !important;
+}
+#pgcu_style4 .pgcu_post.pgcu_post--style2 .pgcu_post__contents .post_info ul li:first-child {
+    font-weight: bold;
+    color: #525252;
 }
 @media screen and (min-width: 414px) {
   .header-top-wrap {
@@ -494,18 +499,6 @@
   }
   .footer-box {
     max-width: 414px;
-  }
-}
-@media screen and (min-width: 768px) {
-  .main-navigation ul ul {
-    top: 95%;
-  }
-  .main-navigation li li {
-    background-image: linear-gradient(#4d98c9, #59c0e5);
-  }
-  .main-navigation ul ul a {
-    border-top: 1px solid rgb(48 96 136);
-    color: white;
   }
 }
 @media screen and (min-width: 1024px) {
