@@ -47,7 +47,7 @@
               <td class="small-icon-fd">
                 <a href="https://dakhoathaiviet.vn/doi-ngu-bac-si-chuyen-khoa-gioi-chuyen-mon-giau-kinh-nghiem/"><img src="/wp-content/uploads/2021/01/icon-bs.png" /></a>
               </td>
-              <td class="name-fd"><a href="https://dakhoathaiviet.vn/doi-ngu-bac-si-chuyen-khoa-gioi-chuyen-mon-giau-kinh-nghiem/">Đội ngũ bác sĩ</a></td>
+              <td class="name-fd"><a href="https://dakhoathaiviet.vn/phu-khoa">Bệnh phụ khoa</a></td>
             </tr>
           </table>
         </div>
@@ -59,7 +59,7 @@
               <td class="small-icon-fd">
                 <a href="https://dakhoathaiviet.vn/co-so-vat-chat-cua-phong-kham-da-khoa-thai-viet/"><img src="/wp-content/uploads/2021/01/icon-csvc.png" /></a>
               </td>
-              <td class="name-fd"><a href="https://dakhoathaiviet.vn/co-so-vat-chat-cua-phong-kham-da-khoa-thai-viet/">Cơ sở vật chất</a></td>
+              <td class="name-fd"><a href="http://dakhoathaiviet.vn/ke-hoach-hoa-gia-dinh">Sức khoẻ sinh sản</a></td>
             </tr>
           </table>
         </div>

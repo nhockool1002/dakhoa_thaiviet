@@ -37,7 +37,7 @@
 								</td>
 								<td class="icon-menu-mb" style="width: 20%;padding: 5px 20px;vertical-align: middle;">
 									<div class="open-button" onclick="openMenu()">
-										<img src="/wp-content/uploads/2021/01/humbutton.png" />
+										<img src="/wp-content/uploads/2021/01/manu.png" />
 									</div>
 								</td>
 								<!-- <td style="width: 32%;">

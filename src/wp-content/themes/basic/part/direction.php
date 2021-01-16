@@ -1,6 +1,6 @@
 <div class="direction-top-mb">
   <table>
-    <tr>
+    <!-- <tr>
       <td class="icon-drct">
         <i class="fa fa-home" aria-hidden="true"></i>
       </td>
@@ -15,7 +15,7 @@
         <p class="topColItemTitle">Tư vấn khám</p>
         <div class="detail-drct"><?php echo PHONE; ?></div>
       </td>
-    </tr>
+    </tr> -->
     <tr>
       <td class="icon-drct">
         <i class="fa fa-calendar" aria-hidden="true"></i>
