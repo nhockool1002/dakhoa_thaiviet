@@ -30,14 +30,14 @@
 					<div class="header-top-wrap">
 						<table>
 							<tr>
-								<td class="icon-menu-mb" style="width: 20%;padding: 5px 20px;">
-									<div class="open-button" onclick="openMenu()">
-										<img src="/wp-content/uploads/2021/01/humbutton.png" />
-									</div>
-								</td>
-								<td class="logo-mb-wrapper">
+								<td class="logo-mb-wrapper" style="vertical-align: middle;">
 									<div class="logo-mb">
 										<a href='/'><img src="/wp-content/uploads/2021/01/logo-new.png" /></a>
+									</div>
+								</td>
+								<td class="icon-menu-mb" style="width: 20%;padding: 5px 20px;vertical-align: middle;">
+									<div class="open-button" onclick="openMenu()">
+										<img src="/wp-content/uploads/2021/01/humbutton.png" />
 									</div>
 								</td>
 								<!-- <td style="width: 32%;">

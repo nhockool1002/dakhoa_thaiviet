@@ -17,9 +17,13 @@
   margin-bottom: 0em;
   margin-block-start: 0em;
   margin-block-end: 0em;
+  color: white;
 }
 #topCol .topColItem p.topColItemTitle {
   font-weight: bolder;
+}
+span.noidungSo {
+  color: white;
 }
 #topCol .topColItem p.topColItemSmallText {
   font-size: 11px;
@@ -249,5 +253,10 @@
 }
 .wb_ps_content p {
   height: 120px;
+}
+p.special-text-content {
+    text-align: justify;
+    box-sizing: border-box;
+    padding-right: 6px;
 }</style>
 <!-- end Simple Custom CSS and JS -->
