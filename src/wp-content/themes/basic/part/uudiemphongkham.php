@@ -69,7 +69,7 @@
             TẬN TÌNH, CHU ĐÁO
           </div>
           <div class="description-uudiem">
-            Với tiêu chí lấy T M và ĐỨC làm chữ tín, Thái Việt luôn chú trọng đến cung cách phục vụ, chăm sóc bệnh nhân. Với đội ngũ y tá, điều dưỡng, nhân viên y tế nhiều năm kinh nghiệm sẽ luôn làm hài lòng bệnh nhân trong mọi quá trình điều trị.
+            Với tiêu chí lấy TÂM và ĐỨC làm chữ tín, Thái Việt luôn chú trọng đến cung cách phục vụ, chăm sóc bệnh nhân. Với đội ngũ y tá, điều dưỡng, nhân viên y tế nhiều năm kinh nghiệm sẽ luôn làm hài lòng bệnh nhân trong mọi quá trình điều trị.
           </div>
         </td>
       </tr>

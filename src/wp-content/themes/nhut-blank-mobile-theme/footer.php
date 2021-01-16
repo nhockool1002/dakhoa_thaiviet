@@ -41,5 +41,5 @@
 </div><!-- #page -->
 
 <?php wp_footer(); ?>
-
+<script language="javascript" src="https://tuvan.dakhoathaiviet.vn/JS/LsJS.aspx?siteid=NIE56551246&float=1&lng=en"></script>
 </body>
