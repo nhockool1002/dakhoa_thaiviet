@@ -35,9 +35,10 @@
 										<a href='/'><img src="/wp-content/uploads/2021/01/logo-new.png" /></a>
 									</div>
 								</td>
-								<td class="icon-menu-mb" style="width: 20%;padding: 5px 20px;vertical-align: middle;">
+								<td class="icon-menu-mb" style="width: 15%;padding: 5px 5px;vertical-align: middle;">
 									<div class="open-button" onclick="openMenu()">
-										<img src="/wp-content/uploads/2021/01/manu.png" />
+										<img src="/wp-content/uploads/2021/01/manu.png" style="border: 3px solid #6d97dd;
+    padding: 1px;"/>
 									</div>
 								</td>
 								<!-- <td style="width: 32%;">

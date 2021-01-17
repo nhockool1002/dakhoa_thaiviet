@@ -1,0 +1,47 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.cheanh {
+  text-align: center;
+  text-align: -webkit-center;
+}
+.shock_wrap {
+        position: relative;
+        display: inline-block;
+  		margin: 0 auto;
+      }
+      .shock_block {
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        background-image  : url('https://i.imgur.com/HxLSIi2.png');
+        background-size: cover;
+        text-align: center;
+        margin: auto;
+        border: 1px solid #ccc;
+        color: #fff;
+      }
+      .shock_block span {
+        top: 0px;
+        position: absolute;
+        right: 0px;
+        left: 0px;
+        margin: auto;
+        bottom: 0px;
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        color: red;
+        font-weight: bold;
+      }
+      .shock_click {
+        padding: 2%;
+        background-color: #eee;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        text-decoration: none;
+        color: #666;
+      }</style>
+<!-- end Simple Custom CSS and JS -->
